@@ -1,1 +1,87 @@
-[{"date": "2026-09-04", "track": "kirk-anniversary-narrative-2026", "mget_legs_tested": ["Leg 6 Algorithmic Enclosure", "Leg 1 Enclosing Force"], "verdict": "neutral", "reasoning": "Narrative-dominance track (conf 88). Measuring narrative control; neutral as MGET evidence until it drives a measurable power outcome.", "forward_signal": "Anniversary narrative converting into legislative/policy leverage; Sept 10 proximity."}, {"date": "2026-09-04", "track": "mid-august-oil-price-shock", "mget_legs_tested": ["Leg 4 Complexity Diminishing Returns"], "verdict": "strains", "reasoning": "FAILED track (conf 10). Mid-August spike did not fire. STRAIN on the energy-shock reading - a timing miss, not a kill. Shock appears deferred to the SPR-runway clock rather than dead.", "forward_signal": "SPR weekly drain; whether the shock arrives on the pre-midterm runway instead (would redeem the mechanism)."}, {"date": "2026-09-04", "track": "military-coup-fourth-turning", "mget_legs_tested": ["Leg 5 Fourth Turning"], "verdict": "strains", "reasoning": "Fracture containable so far (conf 54). Strains the maximal naked-coup reading; process may take quieter enforcement-path rather than a tank in the street.", "forward_signal": "Confirmable break in institutional-military loyalty; decisive military posture change."}, {"date": "2026-09-04", "track": "nato-conditional-guilt", "mget_legs_tested": ["Leg 4 Complexity Diminishing Returns", "Leg 1 Enclosing Force"], "verdict": "confirms", "reasoning": "US transactionalizing the NATO guarantee on Baltic escalation is textbook Tainter - shrinking hegemon re-prices commitments because alliance produces diminishing returns. Confirms Leg 4.", "forward_signal": "Public repricing of the security guarantee; alliance fragmentation."}, {"date": "2026-09-04", "track": "post-trump-restructure", "mget_legs_tested": ["Leg 5 Fourth Turning", "Leg 1 Enclosing Force"], "verdict": "confirms", "reasoning": "Fall-guy-and-new-Caesar restructuring is the institutional-capacity-dissolution phase of a turning - old order names a scapegoat while consolidating a strongman. Confirms Legs 5 and 1.", "forward_signal": "Named fall guy; who assumes consolidated power."}, {"date": "2026-09-04", "track": "regime-power-retention", "mget_legs_tested": ["Leg 5 Fourth Turning", "Leg 6 Algorithmic Enclosure"], "verdict": "confirms", "reasoning": "Regime refusal to cede power regardless of outcome is the defining attribute of a crisis-seat regime. Confirms Leg 5 and its algorithmic-enforcement subset (ballot-data control).", "forward_signal": "SCOTUS USPS ruling; first-mailing-week bulk-rejection; DOJ enforcement-shielding extending to election officials."}, {"date": "2026-09-04", "track": "reichstag-fire-national-emergency", "mget_legs_tested": ["Leg 5 Fourth Turning", "Leg 6 Algorithmic Enclosure"], "verdict": "confirms", "reasoning": "Planned national-emergency completion of the authoritarian transition is the most direct Leg 5 confirmation on the board. High but pending.", "forward_signal": "October catastrophe trigger; a false-flag or catalyzing event legitimizing the emergency."}, {"date": "2026-09-04", "track": "russian-internal-fragility", "mget_legs_tested": ["Leg 4 Complexity Diminishing Returns"], "verdict": "confirms", "reasoning": "Russian fragility under fuel-crisis bite is a Tainter-style system-under-stress reading - external war plus internal economic collapse. Confirms Leg 4 (adversary state application).", "forward_signal": "Autumn fuel-crisis depth; a Russian internal break."}]
+[
+ {
+  "date": "2026-09-04",
+  "track": "kirk-anniversary-narrative-2026",
+  "mget_legs_tested": [
+   "Leg 6 Algorithmic Enclosure",
+   "Leg 1 Enclosing Force"
+  ],
+  "verdict": "neutral",
+  "reasoning": "Narrative-dominance track (conf 88). Measuring narrative control; neutral as MGET evidence until it drives a measurable power outcome.",
+  "forward_signal": "Anniversary narrative converting into legislative/policy leverage; Sept 10 proximity."
+ },
+ {
+  "date": "2026-09-04",
+  "track": "mid-august-oil-price-shock",
+  "mget_legs_tested": [
+   "Leg 4 Complexity Diminishing Returns"
+  ],
+  "verdict": "strains",
+  "reasoning": "FAILED track (conf 10). Mid-August spike did not fire. STRAIN on the energy-shock reading - a timing miss, not a kill. Shock appears deferred to the SPR-runway clock rather than dead.",
+  "forward_signal": "SPR weekly drain; whether the shock arrives on the pre-midterm runway instead (would redeem the mechanism)."
+ },
+ {
+  "date": "2026-09-04",
+  "track": "military-coup-fourth-turning",
+  "mget_legs_tested": [
+   "Leg 5 Fourth Turning"
+  ],
+  "verdict": "strains",
+  "reasoning": "Fracture containable so far (conf 54). Strains the maximal naked-coup reading; process may take quieter enforcement-path rather than a tank in the street.",
+  "forward_signal": "Confirmable break in institutional-military loyalty; decisive military posture change."
+ },
+ {
+  "date": "2026-09-04",
+  "track": "nato-conditional-guilt",
+  "mget_legs_tested": [
+   "Leg 4 Complexity Diminishing Returns",
+   "Leg 1 Enclosing Force"
+  ],
+  "verdict": "confirms",
+  "reasoning": "US transactionalizing the NATO guarantee on Baltic escalation is textbook Tainter - shrinking hegemon re-prices commitments because alliance produces diminishing returns. Confirms Leg 4.",
+  "forward_signal": "Public repricing of the security guarantee; alliance fragmentation."
+ },
+ {
+  "date": "2026-09-04",
+  "track": "post-trump-restructure",
+  "mget_legs_tested": [
+   "Leg 5 Fourth Turning",
+   "Leg 1 Enclosing Force"
+  ],
+  "verdict": "confirms",
+  "reasoning": "Fall-guy-and-new-Caesar restructuring is the institutional-capacity-dissolution phase of a turning - old order names a scapegoat while consolidating a strongman. Confirms Legs 5 and 1.",
+  "forward_signal": "Named fall guy; who assumes consolidated power."
+ },
+ {
+  "date": "2026-09-04",
+  "track": "regime-power-retention",
+  "mget_legs_tested": [
+   "Leg 5 Fourth Turning",
+   "Leg 6 Algorithmic Enclosure"
+  ],
+  "verdict": "confirms",
+  "reasoning": "Regime refusal to cede power regardless of outcome is the defining attribute of a crisis-seat regime. Confirms Leg 5 and its algorithmic-enforcement subset (ballot-data control).",
+  "forward_signal": "SCOTUS USPS ruling; first-mailing-week bulk-rejection; DOJ enforcement-shielding extending to election officials."
+ },
+ {
+  "date": "2026-09-04",
+  "track": "reichstag-fire-national-emergency",
+  "mget_legs_tested": [
+   "Leg 5 Fourth Turning",
+   "Leg 6 Algorithmic Enclosure"
+  ],
+  "verdict": "confirms",
+  "reasoning": "Planned national-emergency completion of the authoritarian transition is the most direct Leg 5 confirmation on the board. High but pending.",
+  "forward_signal": "October catastrophe trigger; a false-flag or catalyzing event legitimizing the emergency."
+ },
+ {
+  "date": "2026-09-04",
+  "track": "russian-internal-fragility",
+  "mget_legs_tested": [
+   "Leg 4 Complexity Diminishing Returns"
+  ],
+  "verdict": "confirms",
+  "reasoning": "Russian fragility under fuel-crisis bite is a Tainter-style system-under-stress reading - external war plus internal economic collapse. Confirms Leg 4 (adversary state application).",
+  "forward_signal": "Autumn fuel-crisis depth; a Russian internal break."
+ }
+]
