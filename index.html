@@ -106,6 +106,7 @@ warningText:`# THRESHOLD WARNING
 A WARNING means a specific institutional failure is now happening in public view - not conditions, an event. The named mechanism is live. Details will be posted here at time of upgrade.`};
 const bust=u=>u+'?v='+Date.now();
 fetch(bust('data.json'),{cache:'no-store'}).then(r=>r.json()).then(async M=>{
+  document.querySelector('#app .placeholder')?.remove();
   let D={...M};
   if(M.predictions&&M.predictions._sharded){
     D.predictions=[];
@@ -211,7 +212,7 @@ details>summary{list-style:none}details>summary::-webkit-details-marker{display:
 <p class="text-slate-300 text-sm">We do NOT track every variable. We track only transitions that clear a relevance threshold. Every number is a <em>bet on a mechanism</em>, and every bet is backed by a visible evidence base and an armed falsifier. A forecast that cannot be falsified is not a forecast — it is a mood. When a forecast stops clearing the bar, it moves to the accountability record below.</p>
 </div>
 <div id="watch-details" class="mb-8"></div>
-<div id="app"><p class="text-slate-400">Loading model state…</p></div>
+<div id="app"><p class="text-slate-400 placeholder">Loading model state…</p></div>
 <details class="card p-6 rounded-xl border-l-4 border-slate-600 mt-10"><summary class="text-xl font-bold text-amber-400">📖 Methodology — how this board is built and how it is tested <span class="chev text-slate-400">▶</span></summary><div class="mt-4">
 <div class="text-slate-300 text-sm mb-3"><strong class="text-amber-400">The MGET framework.</strong> The board runs on a four-leg model of systemic failure: <strong>Leg 1</strong> — complexity cap / material substrate (energy, logistics, money); <strong>Leg 2</strong> — elite overproduction / class friction; <strong>Leg 3</strong> — enclosure mutation (institutions becoming opaque, weaponized, or unaccountable); <strong>Leg 4</strong> — vanguard alignment (coordinated counter-elites forming). Each leg is scored 0–15 from visible, public evidence only.</div>
 <div class="text-slate-300 text-sm mb-3"><strong class="text-amber-400">Forecasts are bets on mechanisms, not dates.</strong> Each entry names its mechanism, its evidence base, and its falsifier — the specific condition that would retire it. When a falsifier triggers, the forecast is retired publicly, on this page. A forecast that cannot be falsified is not a forecast; it is a mood.</div>
