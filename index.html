@@ -115,6 +115,11 @@ fetch(bust('data.json'),{cache:'no-store'}).then(r=>r.json()).then(async M=>{
     D.mget_ledger=[];
     for(const p of M.mget_ledger.parts){const r=await fetch(bust(p.part),{cache:'no-store'});D.mget_ledger.push(...await r.json());}
   }
+  // schema alias: /space field is confidence_score; renderer expects .confidence
+  const pct=v=>v==null?0:(v<=1?v*100:v);
+  D.predictions=(D.predictions||[]).map(p=>({confidence:pct(p.confidence??p.confidence_score),...p}));
+  D.mget_ledger=(D.mget_ledger||[]).map(m=>({confidence:m.confidence??m.confidence_score,...m}));
+  if(D.macro_forecast) D.macro_forecast.confidence=D.macro_forecast.confidence??D.macro_forecast.confidence_score;
   return fetch(bust('history.json'),{cache:'no-store'}).then(r=>r.json()).catch(()=>({points:{}})).then(H=>{
 window.__CASS_DATA = D; window.__CASS_HIST = H;
 const HIST=H;
