@@ -2,7 +2,7 @@
 // ---- shared utils (hoisted so engine + renderer see one copy) ----
 const esc=s=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 const norm=c=>{if(c==null)return 0;return c<=1?c*100:(c>100?100:c);};
-const badge=c=>{c=norm(c);return c>=90?'bg-red-600':c>=70?'bg-amber-600':'bg-slate-600';};
+const badge=c=>{c=norm(c);return c>=80?'bg-red-600':c>=60?'bg-amber-500':'bg-emerald-600';};
 window.__CASS_UTILS={esc,norm,badge};
 
 // ---- Share-card engine (v2.8.1) ----
@@ -135,7 +135,7 @@ wi.innerHTML='⏳ Threshold Watch <span class="text-amber-200/70 normal-case fon
 const mvBlock=()=>{if(!D.movers||!D.movers.length)return '';
 return `<details class="card p-6 rounded-xl border-l-4 border-emerald-500 mb-8" open><summary class="text-xl font-bold text-emerald-400">⏱ Changed in Last 24 Hours — movers only <span class="chev text-slate-400">▶</span></summary>
 <div class="mt-4"><p class="text-slate-400 text-xs mb-3">Only objects that CHANGED surface here: confidence moves, status resolutions, watch-item fires, stage transitions. New capture entries enter the ledger timeline without touching this panel. Empty panel = static board = information.</p>
-<ul class="space-y-2">${D.movers.map(m=>`<li class="text-sm text-slate-300 border-l-2 border-emerald-500/40 pl-3"><span class="text-emerald-400 font-semibold">${esc(m.time)}</span> — ${esc(m.ref)}: <span class="text-amber-400">${esc(m.change)}</span> <span class="text-slate-500 text-xs">[${esc(m.trigger)}]</span></li>`).join('')}</ul></div></details>`;};
+<ul class="space-y-2">${D.movers.slice().reverse().map(m=>`<li class="text-sm text-slate-300 border-l-2 border-emerald-500/40 pl-3"><span class="text-emerald-400 font-semibold">${esc(m.time)}</span> — ${esc(m.ref)}: <span class="text-amber-400">${esc(m.change)}</span> <span class="text-slate-500 text-xs">[${esc(m.trigger)}]</span></li>`).join('')}</ul></div></details>`;};
 // Watch details block
 const wd=document.getElementById('watch-details');
 wd.innerHTML=`<details class="card p-6 rounded-xl border-l-4 border-amber-500"><summary class="text-xl font-bold text-amber-400">⏳ Threshold Watch — active. Click to expand the full issuance text <span class="chev text-slate-400">▶</span></summary>
@@ -155,8 +155,8 @@ if(!byStatus[st])return;
 h+=`<p class="text-sm font-bold text-slate-300 uppercase tracking-wide mt-4 mb-2">${st} (${byStatus[st].length})</p>`;
 byStatus[st].sort((a,b)=>norm(b.confidence)-norm(a.confidence)).forEach((p,idxAll)=>{
 const lead=p.resolved_date&&p.date_made?`<span class="px-2 py-1 bg-slate-800 text-emerald-400 border border-emerald-500/30 text-xs font-semibold rounded" title="Lead time from log to resolution">⏱ ${esc(p.date_made)} → ${esc(p.resolved_date)}</span>`:'';
-h+=`<details class="card rounded-xl mb-4 border-l-4 ${norm(p.confidence)>=90?'border-red-500':norm(p.confidence)>=70?'border-amber-500':'border-slate-600'}"><summary class="p-6">
-<div class="flex flex-wrap items-center gap-2 mb-2"><span class="px-3 py-1 ${badge(p.confidence)} text-white text-xs font-bold rounded">${Math.round(norm(p.confidence))}%</span><span class="px-3 py-1 bg-slate-800 text-amber-400 border border-amber-500/30 text-xs font-semibold rounded">${esc(p.status)}</span><span class="text-slate-400 text-xs">logged ${esc(p.date_made)}</span>${lead}<button class="share-btn px-2 py-1 bg-amber-600 text-white text-xs font-bold rounded" onclick="__shareP(${p.__i})">📸 Share Card</button></div>
+h+=`<details class="card rounded-xl mb-4 border-l-4 ${norm(p.confidence)>=80?'border-red-500':norm(p.confidence)>=60?'border-amber-500':'border-emerald-500'}"><summary class="p-6">
+<div class="flex flex-wrap items-center gap-2 mb-2"><span class="px-3 py-1 ${badge(p.confidence)} text-white text-xs font-bold rounded">${Math.round(norm(p.confidence))}%</span><span class="px-3 py-1 bg-slate-800 text-amber-400 border border-amber-500/30 text-xs font-semibold rounded">${esc(p.status)}</span><span class="text-slate-400 text-xs">logged ${esc(p.date_made)}</span>${lead}<button class="share-btn px-2 py-1 bg-slate-600 text-white text-xs font-bold rounded" onclick="__shareP(${p.__i})">📸 Share Card</button></div>
 <p class="text-lg font-bold text-amber-400">${esc(p.title)}</p>
 <p class="text-slate-300 text-sm mt-1">${esc(p.statement)}</p>
 <p class="text-slate-500 text-xs mt-2">📄 Expand for evidence base &amp; falsifier <span class="chev">▶</span></p>
