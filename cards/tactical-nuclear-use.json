@@ -1,0 +1,27 @@
+{
+ "basename": "tactical-nuclear-use",
+ "title": "Tactical Nuclear Weapon Use (Red-Line Escalation Variable)",
+ "date_made": "2026-09-07",
+ "statement": "Two-leg probability of tactical nuclear weapon use within the escalation-ladder window. LEG A (Russia in/around Ukraine, ~25% +/-5%): supported by Russia's lowered nuclear doctrine treating a non-nuclear Ukrainian strike supported by a nuclear NATO sponsor as a 'joint armed attack' threatening retaliation against the sponsor; rises as institutional off-ramps close (consulate expulsions, credibility drain, immunity-blanket failure) because the doctrine is DESIGNED to paralyze NATO vertical escalation. LEG B (Baltic/NATO/adversarial theater, ~10-12%): materially lower because crossing a NATO border crosses Article 5, which the gray-zone 'immunity blanket' is engineered to provoke WITHOUT crossing. STRONG CANCELER: no actor in a losing-conventional position has used a tactical nuke in 80 years, because leaders read it as converting a recoverable setback into a permanent catastrophe. NET CASS READ: P(tactical nuke preceding end of ladder) ~= 15-25% \u2014 real but not foregone; the hinge where deterrence holds (most likely) or catastrophically fails (small, rising, undismissable).",
+ "confidence": 18,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "RUSSIAN NUCLEAR DOCTRINE SHIFT (documented, board): non-nuclear strike on Russia by Ukraine supported by a nuclear power treated as 'joint armed attack' \u2014 the explicit threshold-lowering.",
+  "OFF-RAMP DRAWDOWN (Sept 2026): German consulate St. Petersburg expulsion + Lavrov 'real war' frame \u2014 institutional channels closing, raising the cornered-leader probability.",
+  "'IMMUNITY BLANKET' MECHANISM: nuclear doctrine acting as deterrent shield that paralyzes NATO vertical escalation \u2014 the wedge that keeps conflict sub-Article-5 (board: kinetic-european-conflict).",
+  "'NUCLEAR THRESHOLD SIGNAL' watch item on world-war-iii-prologue track."
+ ],
+ "evidence_contradicted": [
+  "80-YEAR BASE-RATE: no tactical-nuke use by a conventionally-behind power since 1945; leaders correctly read it as catastrophic self-harm.",
+  "DOCTRINE AS BLUFF-FOR-DETERRENCE: the doctrine's purpose is paralysis, not use; its credibility depends on non-use.",
+  "Ukraine demilitarizing rather than marching on Moscow \u2014 no present existential-threshold trigger for escalation to nukes."
+ ],
+ "falsifier": "Leg A breaks if a US/NATO conventional victory or a negotiated off-ramp (e.g., November Pause, China mediation) removes the cornered-leader condition and the nuclear threshold is never reached; Leg B breaks if no Baltic/NATO nuclear threat ever materializes through the full cascade. The track is falsified as 'likely' if both legs stay below 50% through end-of-window while conflict remains regionalized.",
+ "forward_watchlist": [
+  "Cornered-leader conditions: mass Russian battlefield collapse, Crimea/Kerch loss, regime-survival threat",
+  "Verbal nuclear signaling / nuclear exercise deployments / dals removals (strategic & tactical)",
+  "Any NATO territory conventional incursion that tests Article 5",
+  "Whether the November Pause / China mediation quarantines the fronts before the threshold",
+  "Kremlin personnel/discourse shift toward 'existential framing' of the war"
+ ]
+}
