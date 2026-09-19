@@ -1,25 +1,45 @@
 {
  "meta": {
   "generated": "2026-09-19",
-  "note": "sharded manifest; chunks predictions.00-03, mget_ledger.00-04"
+  "note": "sharded manifest; loader-compatible {part:} objects"
  },
  "predictions": {
   "_sharded": true,
+  "total": 54,
   "parts": [
-   "predictions.00.json",
-   "predictions.01.json",
-   "predictions.02.json",
-   "predictions.03.json"
+   {
+    "part": "predictions.00.json"
+   },
+   {
+    "part": "predictions.01.json"
+   },
+   {
+    "part": "predictions.02.json"
+   },
+   {
+    "part": "predictions.03.json"
+   }
   ]
  },
  "mget_ledger": {
   "_sharded": true,
+  "total": 143,
   "parts": [
-   "mget_ledger.00.json",
-   "mget_ledger.01.json",
-   "mget_ledger.02.json",
-   "mget_ledger.03.json",
-   "mget_ledger.04.json"
+   {
+    "part": "mget_ledger.00.json"
+   },
+   {
+    "part": "mget_ledger.01.json"
+   },
+   {
+    "part": "mget_ledger.02.json"
+   },
+   {
+    "part": "mget_ledger.03.json"
+   },
+   {
+    "part": "mget_ledger.04.json"
+   }
   ]
  }
 }
