@@ -1,0 +1,28 @@
+{
+ "basename": "de-dollarization-reserve-rotation",
+ "title": "De-Dollarization / Reserve-Rotation Attack on the Petrodollar Hinge",
+ "date_made": "2026-09-06",
+ "statement": "The petrodollar/reserve-currency hinge is under a structural 'sovereign-rotation attack' that will measurably erode US Treasury's privileged status before the midterms and as the war drains financial credibility. Norway is a named primary actor: the world's largest sovereign fund (NBIM, ~$2.3T) proposed cutting its US Treasury allocation ~34.1% to ~21.9% (~$80B trimmed from ~$215B). This is slow institutional rotation, not a political exit, and it matters more because it quietly undermines the 'safest asset' mystique that props up the dollar-accumulation machine.",
+ "confidence": 66.0,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Norway's NBIM (Sept 4, 2026, Reuters) proposed cutting government-bond allocation 70%->50%, chiefly hitting US Treasuries; trimming ~$80B from ~$215B of Treasury holdings (Reuters/Fortune/CNBC calculations).",
+  "Gold repatriation out of the NY Federal Reserve reading as a 'custody-exit' signal (logged in the Sept 3-4 48hr event record, ~64% confidence).",
+  "Iran's oil-infrastructure strikes re-read as petrodollar economic-warfare, not merely kinetic (journal, March 2026).",
+  "US buying Iranian oil settled in Yuan, not USD \u2014 'buying oil from a nation we are warring against using currency that is intended to replace the US petrodollar' (journal, March 24, 2026).",
+  "China as structural heir building new-order plumbing: CIPS, gold accumulation, yuan rails (Global Fourth Turning philosophy doc).",
+  "CROSS-TRACK SIGNAL (Sept 7, 2026, unverified aggregator): Iran's Ministry of Economy stands up an 'economic war headquarters' explicitly tasked with securing emergency financing lines and ALTERNATIVE INTERNATIONAL PAYMENT RAILS against secondary sanctions \u2014 a sanctioned state openly building escape infrastructure from the dollar system under active blockade pressure. Structural significance: sanctions-driven rails-building (CIPS, barter, non-dollar settle) is the classic mechanism by which blockade events accelerate reserve rotation. VERIFY via primary sources before confidence movement on this track.",
+  "VERIFICATION UPGRADE (Sept 7, 2026): Iran's 'economic war headquarters' (ministry-level wartime economic body) is CONFIRMED by agency pickup of Deputy Economy Minister statement (Sept 6). The body's remit includes emergency financing and alternative payment mechanisms under blockade. Coupling to Hormuz track is now evidence-backed, not speculative."
+ ],
+ "evidence_contradicted": [
+  "NBIM's overall US dollar exposure stays broadly stable \u2014 it redeploys into non-government US dollar debt (mortgage-backed, corporate) rather than leaving dollars; institutional press stresses this is return-seeking, not a crude political exit."
+ ],
+ "falsifier": "This track breaks if Norway's rotation is reversed or confirmed purely as risk-parity position-sizing with NO continued sovereign rotation; i.e., if multiple major sovereigns (not just Norway or adversarial China/Russia) expand US Treasury holdings and gold stays inside the NY Fed through the midterms, the rotation-attack thesis fails.",
+ "forward_watchlist": [
+  "Norway NBIM final allocation decision (watch for Treasury floor below 22% and JGB/MBS pivot confirmation)",
+  "Additional sovereign Treasury-cut proposals (Japan/Korea/western funds) beyond adversarial ones",
+  "Further gold repatriation movements out of the NY Fed / London vaults by allied sovereigns",
+  "More oil deals settled in Yuan/CIPS rails rather than USD",
+  "Treasury auction bid-weakness or yield-suppression signals as war cost drains credibility"
+ ]
+}
