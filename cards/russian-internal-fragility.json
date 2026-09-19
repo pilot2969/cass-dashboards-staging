@@ -1,0 +1,24 @@
+{
+ "basename": "russian-internal-fragility",
+ "title": "Russian Internal Fragility Deepens as Fuel Crisis Bites Into Autumn",
+ "date_made": "2026-09-03",
+ "statement": "Russia's forced shift to sea-borne gasoline imports (India/Morocco/Turkey) plus regional rationing and 70+ refinery strikes signals a structural war-economy fragility that will deepen through autumn. A fuel-rationed Russia under ongoing strategic-strike pressure becomes a more unpredictable and desperate regional actor, raising risk of escalatory behavior as it enters winter \u2014 an unreliable domestic baseline eroding the regime's capacity to sustain the war while managing internal stability.",
+ "confidence": 72,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Putin admitted 'We Were Mistaken' (Sept 3, 2026): Russia assumed refineries were untargetable civilian facilities.",
+  "70+ Ukrainian drone strikes on Russian refineries since Jan 2026; refining output at lowest in two decades.",
+  "Gasoline covers ~70% of domestic demand (30k ton/day shortfall); 17 regions rationing fuel (caps, odd-even).",
+  "Russia importing gasoline by sea from India, Morocco, Turkey; record purchases from Belarus; KINEF (2nd-largest refinery) stopped processing Sept 2.",
+  "2026-09-08: Urals fell to $59, Russia's oil revenue sinking as fuel crunch deepens globally (Oilprice.com)."
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "Russian refining recovers (KINEF restart, imports fall, rationing ends, output target met) AND domestic stability holds through winter - the regime demonstrates it can absorb the strategic-strike degradation without acute internal crisis or desperate external escalation.",
+ "forward_watchlist": [
+  "KINEF restart + refining-throughput recovery - the recovery baseline.",
+  "Autumn/winter rationing expansion vs. relaxation; regional unrest over fuel/cold (internal-fragility transmission).",
+  "Continued Ukrainian strike tempo (sustained degradation) vs. negotiation-induced pause.",
+  "Any Russian escalatory act born of desperation (Baltic probe, sanctions-breaking, nuclear signaling) as fragility external shadow.",
+  "Sea-borne gasoline import dependency - the seam of the crisis."
+ ]
+}
