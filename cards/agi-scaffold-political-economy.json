@@ -1,0 +1,22 @@
+{
+ "basename": "agi-scaffold-political-economy",
+ "title": "The decisive political fight is over scaffolds and epistemic infrastructure, not models",
+ "date_made": "2026-09-10",
+ "statement": "Public debate will fixate on model capability and 'AI safety' in the alignment sense, while the decisive enclosure fight \u2014 who owns memory, audit structures, personal archives, and trusted epistemic infrastructure \u2014 happens mostly in platform terms-of-service, procurement contracts, and standards bodies, largely unnoticed. Populations with disciplined epistemic scaffolds will measurably outperform those without (literacy-as-scaffold becomes a policy issue by 2030).",
+ "confidence": 55,
+ "status": "pending",
+ "evidence_confirmed": [
+  "Sept 12: all four lab principals publicly endorse coordinated slowdown; Amodei 'We Must Pace the Frontier'",
+  "Sept 14: markets reprice instantly \u2014 Nasdaq -1.2% open, SoftBank -10.7%, SK Hynix -6.4%, ASML -6%, Micron/SanDisk -6% \u2014 the fight over pacing IS a fight over capital",
+  "Sept 14: Trump names Anthropic/Dario directly, claims personal guardrail role, threatens 'Treasonists, Traitors, and Leakers BEWARE'",
+  "Sept 14: Politico \u2014 chance of Congress acting on AI 'in the coming weeks is next to zero'"
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "Either (a) major legislation or regulation explicitly addressing user-owned memory/audit/scaffold portability emerges and dominates AI political debate by 2030 (claim too pessimistic about inattention), or (b) by 2030 no measurable gap exists between scaffolded and unscaffolded populations in belief-accuracy or manipulation resistance (claim too optimistic about scaffold effects).\n\n[Provenance] [2026-09-10] confidence_score normalized from 0.55 (0-1 scale) to 55 (0-100 canonical scale) on 2026-09-18; value unchanged in meaning, scale only.",
+ "forward_watchlist": [
+  "AI regulation drafts re: data portability and personal AI memory",
+  "platform ToS changes on account/AI-content ownership",
+  "research on epistemic resilience interventions",
+  "AI literacy policy programs"
+ ]
+}
