@@ -1,0 +1,22 @@
+{
+ "basename": "ukraine-strikes-russian-oil",
+ "title": "Ukraine Strikes Russian Oil",
+ "date_made": "2025-01-05",
+ "statement": "Ukraine hitting Russian oil production threatens their capability to project force in Europe.",
+ "confidence": 100,
+ "status": "confirmed",
+ "evidence_confirmed": [
+  "Reuters reports June 2026: Russian oil output 10% below target due to strikes",
+  "Zelenskyy confirms Syzran and Ufa refinery strikes",
+  "Sept 3, 2026 \u2014 Putin admits 'We Were Mistaken' (Kyiv Post/Interfax): assumed oil refineries were untargetable civilian facilities. 70+ Ukrainian refinery strikes since Jan 2026; refining output at lowest in 20 years; gasoline covers only ~70% of domestic demand (30k ton/day shortfall); 17 regions rationing fuel; Russia importing gasoline by sea from India/Morocco/Turkey + record Belarus purchases; KINEF (2nd-largest refinery) stopped processing Sept 2."
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "Russian refining/refinery capacity recovers to pre-2026 levels (KINEF restart, gasoline imports fall, rationing ends, output target met) - i.e., the strategic degradation is reversed and Ukraine's campaign stops being force-projection-relevant.",
+ "forward_watchlist": [
+  "KINEF restart date and refining-throughput recovery - the cleanest single recovery signal.",
+  "Whether Ukrainian strike tempo sustains (70+ and counting) or Ukraine is coerced/negotiated into a moratorium.",
+  "Russian gasoline rationing expansion vs. relaxation across the affected regions.",
+  "Sea-borne import dependency (India/Morocco/Turkey/Belarus): sustained = fragility; substituted by domestic = recovery.",
+  "Winter immediacy: whether recovered capacity covers heating-season demand without rationing."
+ ]
+}
