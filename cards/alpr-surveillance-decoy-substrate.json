@@ -1,0 +1,29 @@
+{
+ "basename": "alpr-surveillance-decoy-substrate",
+ "title": "ALPR Surveillance Decoy-Substrate Mechanism (Flock/Axon)",
+ "date_made": "2026-09-04",
+ "statement": "Interchangeable-vendor enclosure: focusing civic resistance on a single visible ALPR brand (Flock) does not remove the surveillance substrate. Flock is the sacrificial brand-layer; a lower-scrutiny successor (Axon, Rekor, Motorola) re-installs the same warrantless, default-on plate-tracking premise under a different skin. The enclosure-force needs no orchestrator; it merely lets resistance concentrate on a scapegoat while the substrate persists.",
+ "confidence": 79,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Flock is the only widely-known ALPR brand (a16z/Tiger-backed, $8B) and thus the natural focus of the backlash - the exposed mascot absorbs the outrage (Guardian, Mother Jones, Aug-Sep 2026).",
+  "Record cancellations did NOT shrink the substrate: 214 cities dropped Flock since 2021, 90 in August 2026 alone, yet Flock still operates 120,000+ cameras across 6,000+ agencies and the network is flat-to-growing (Gadget Review, FindingFlock, QZ, BBC).",
+  "Successor absorption confirmed: Axon (a $48B firm) 'lurking in the shadows, waiting for Flock to fail and then rushing in' (ACLU senior policy counsel Chad Marlow, verbatim). Axon replaced Flock in 7+ municipalities across 5 states.",
+  "Token-win optics: Longmont celebrated dropping Flock, then re-installed Axon ALPRs on the same streets months later; Denver swapped Flock for Axon (March); Syracuse did the same. 'Their cities dropped Flock surveillance cameras. They're still being watched' (Guardian Aug 20, 2026).",
+  "Axon CEO openly asked to redesign cameras to NOT look like Flock so they evade vandalism/outrage (404 Media) - explicit recognition the brand is the target, not the grid.",
+  "DeSantis (Florida) and Texas ordered ALPR removal - but this is political reaction to the Flock scandal, not evidence of orchestration; the wire supports convergent opportunism, not a coordinating hand.",
+  "Sept 8, 2026 (TechSpot/Fox40): Grass Valley, CA canceled its Flock contract (Aug 11), removed all cameras \u2014 and Flock reinstalled at least two without permission, claiming its automated maintenance system flagged the removal as 'equipment failure.' GVPD now patrols for and removes reinstalled cameras. Combines with: record-pace city contract cancellations, Savannah officer arrests for misuse, FL decoy-camera felony sting, and cops begging Axon to redesign cameras to avoid Flock associations \u2014 the municipal-secession front of the ALPR enclosure track is hardening, and Flock is fighting attrition with unpermissioned reinstallation."
+ ],
+ "evidence_contradicted": [
+  "The orchestration leg (state INTENTIONALLY planted Flock as a sacrificial decoy) is NOT supported - wire shows every actor responding to independent incentives (budgets, optics, accountability, genuine privacy concern) that converge on the same outcome. Convergent opportunism, not conspiracy."
+ ],
+ "falsifier": "The substrate-preservation claim breaks if actual active ALPR network coverage DECLINES meaningfully (not just relocates) after Flock removals - i.e. if Axon/Rekor/Motorola successors do NOT step in, and aggregate camera density genuinely falls and stays down. The mechanism further breaks if removing a visible node causes a real, measurable loss in crime-solving/stolen-vehicle recovery that the state visibly defends (proving the node was functional, not sacrificial).",
+ "forward_watchlist": [
+  "Aggregate nationwide active ALPR node count (Flock + Axon + Rekor + Motorola): does coverage stay flat/grow despite Flock cancellations, or genuinely decline?",
+  "Axon/Rekor/Motorola successor uptake in jurisdictions that canceled Flock - key markers: Denver, Longmont, Syracuse, Austin, Abington (whose Flock contract can't exit until 2028).",
+  "Axon Fusus AI-fusion rollout: the AI-linked 'connect the dots' layer that goes beyond single-vendor plate reads toward a unified visual-surveillance grid.",
+  "State-level ALPR removal orders (FL, TX): do these ban the practice outright, or merely swap vendors / reduce visible poles while preserving systems?",
+  "Whether anti-surveillance activists pivot from brand-war to data-governance/warrant/retention fights - the actual substrate contest (New Hampshire 3-min retention; WA public-records ruling; SCOTUS Carpenter implications).",
+  "Flock reinstalling/reactivating cameras after canceled contracts (3+ towns reported) - token-loss optics versus actual persistence."
+ ]
+}
