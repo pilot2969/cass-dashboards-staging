@@ -1,0 +1,11 @@
+{
+ "date": "2026-09-14",
+ "track": "military-substrate",
+ "mget_legs_tested": [
+  "leg_1_complexity_cap",
+  "leg_3_enclosure_mutation"
+ ],
+ "verdict": "confirms",
+ "reasoning": "Trump Truth Social (9/14/26): 'Exquisite and Elite Weapons' production surge - Patriots, THAAD, Tomahawks, Standard Missiles - 4-5 new large-scale plants, delivered to Middle East forces. This is doubling down on the legacy interceptor/missile stack at precisely the moment the warfare substrate has shifted to autonomous mass: cheap drones, loitering munitions, AI-directed swarms. The Red Sea campaign already demonstrated the asymmetry: multi-million-dollar interceptors expended against $20k drones, at a loss ratio that cannot be sustained. Production 'excellence' rhetoric confuses capability with capacity - building more of the last war's answer while the cost curve of the current war runs the other way. MGET reading: Leg 1 (complexity cap) - the legacy stack is the most complexity-intensive production imaginable, dependent on rare-earth chains and specialized labor the same substrate squeeze (oil $109, refinery outages) is now pricing; Leg 3 (enclosure mutation) - the defense-industrial base converts public capital into private margin with 'exquisite' as the marketing language. The proclamation is also a narrative artifact: performance of strength for the feed while the actual warfare substrate (autonomous mass) is left to adversaries and startups.",
+ "forward_signal": "Watch: (1) whether any major procurement shift toward autonomous mass (drone/swarm line items) appears in next defense appropriations, or whether legacy missile systems continue absorbing the budget; (2) interceptor-expenditure ratios in any Red Sea/Gulf engagement - cost-per-intercept vs cost-per-threat; (3) whether 'exquisite' procurement plants (4-5 new facilities) are missile-body legacy or autonomous platform. If legacy stack continues to dominate through FY27 budget, the military-substrate misallocation leg strengthens - a slow-motion repeat of 1914 cavalry doctrine against machine guns."
+}
