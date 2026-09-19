@@ -1,0 +1,27 @@
+{
+ "basename": "cdc-epistemic-capture",
+ "title": "CDC Epistemic Capture (Interface Anomaly Case Study #1)",
+ "date_made": "2026-09-11",
+ "statement": "CDC is a maximum-anomaly case on the institution-substrate interface: an institution with an unusually deep, codified, evidence-bound baseline (published schedules, ACIP proceedings, MMWR as paper of record) can only degrade by breaking its own codified pattern \u2014 every break is legible. Observed anomalies: inverting the food pyramid, eliminating vaccine schedules, rejecting measles outbreak evidence. These fail precedent-class review: recommendation changes historically TRACE to published evidence review; these do not trace. Form is unprecedented; function is precedent-class (relatives: captured-agency science, Lysenkoism, tobacco-science apparatus) \u2014 epistemic degradation in service of legitimacy protection. Expectation: practicing clinicians and health systems increasingly act AROUND CDC (sourcing guidance from AAP, WHO, state health departments, professional societies) \u2014 functional abandonment by operational partners. Deep-codified-baseline institutions (FDA, NOAA, BLS next) are the corridor's worst off, because deviation-from-baseline IS the signal.",
+ "confidence": 82,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Food pyramid inversion \u2014 departs from decades of codified nutrition guidance without traceable evidence review",
+  "Vaccine schedule elimination/gutting \u2014 bypasses ACIP-style evidence-review precedent class",
+  "Rejection of measles outbreak evidence \u2014 contradicts MMWR-grade documentation standard",
+  "Method: five-question Interface Anomaly Test passed (form unprecedented, function precedent-class, substrate pre-loaded via healthcare-industry dependence on CDC reliability, absorbed-novelty counterfactual weak given pace/simultaneity, falsifier self-documenting)",
+  "[2026-09-17] CDC switched measles-death counting to NCHS mid-outbreak (PA, 3 apparent deaths), unannounced; ex-CDC chief medical officer Houry: 'the change doesn't make any sense' \u2014 instrument-swap concealment confirmed 9/17"
+ ],
+ "evidence_contradicted": [
+  "Possible counterargument: emergency conditions justify rapid recommendation changes \u2014 but precedent class still requires traceability to published review, which is absent",
+  "Noise alternative: individual recommendation revisions have always occurred; only the PACE and SIMULTANEITY across multiple codified interfaces distinguishes structural capture from ordinary adjustment"
+ ],
+ "falsifier": "Track dies if CDC recommendation changes resume tracing to published evidence review (MMWR/ACIP paper trail restored), OR if clinicians do NOT migrate guidance-sourcing away from CDC (operational partners remain bound). Corollary falsifier for the general thesis: if deep-codified-baseline institutions show LESS deviation than shallow-baseline ones, the corridor mapping is inverted.",
+ "forward_watchlist": [
+  "Clinician guidance-sourcing behavior: AAP/WHO/state health dept adoption rates vs CDC",
+  "MMWR and ACIP publication integrity (gaps, rewrites, suppression of outbreak data)",
+  "FDA, NOAA, BLS \u2014 next Interface Anomaly case studies for the corridor map",
+  "Interaction with Conservative-Space Defection Signal: two substrates (healthcare, right-media) showing same defection geometry = cross-validation",
+  "Whether CDC deviations are policy-specific or personality-specific (parallel structure to defection track)"
+ ]
+}
