@@ -1,0 +1,10 @@
+{
+ "date": "2026-09-15",
+ "track": "oil-shock",
+ "mget_legs_tested": [
+  "Leg 1"
+ ],
+ "verdict": "strains",
+ "reasoning": "Brent +20% m/m, Saudi East-West workaround still down, retail rationing caps and rail surcharges \u2014 physical shock real. But EIA STEO holds $90/b 2H26 with 2027 glide to $74: complexity-cap failure (Leg 1) NOT yet observed in physical system; the gap is narrative-premium, not supply collapse.",
+ "forward_signal": "If EIA forecast survives contact with October data, crash-narrative weakens; if East-West repair slips past Oct 1, Leg 1 pressure resumes."
+}
