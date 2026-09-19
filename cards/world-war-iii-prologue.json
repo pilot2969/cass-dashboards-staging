@@ -1,0 +1,31 @@
+{
+ "basename": "world-war-iii-prologue",
+ "title": "World War III Prologue: Interlocking-Theater Escalation (Master Thesis)",
+ "date_made": "2026-09-03",
+ "statement": "MASTER FRAMING HYPOTHESIS: World War III's opening phase began with Israel's initial strike on Iran, triggering a cascade of interlocking-theater escalation in which each belligerent is drawn in because its vital interests pass through a chokepoint another actor controls. Receipts now span four simultaneous theaters tracing back to that origin: (1) Middle East - Hormuz blockade/bounty + Gulf base saturation with merchant attrition crossing fatal threshold; (2) Europe/NATO - Russian Baltic hybrid-sabotage cells under a conditional/transactionalized US guarantee; (3) Russian homeland - Ukrainian deep-strike attrition of refineries/S-400 forcing nuclear-doctrine shift; (4) Asia-Pacific - South Korea preparing a Hormuz naval deployment, the first major non-aligned liberal power committing combat muscle to the theater. Confidence held at EMERGENT 58% - structurally compelling and interlocking-receipt-backed, but not yet across the formal multipolar war threshold (NO full NATO combatant mobilization, NO Sino-American engagement, NO Baltic Article 5 trigger, and SK deployment remains preparation not yet combat commitment).",
+ "confidence": 57,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "ISRAEL'S OPENING STRIKE: The trigger event - Israel's initial attack on Iran set the entire escalation cascade in motion.",
+  "IRAN REGIONAL RETALIATION: Iran's kinetic response across Gulf states + naval aggression at Hormuz, with merchant shipping attrition now crossing the fatal threshold (2 sailors killed on a merchant ship, Sept 2026).",
+  "US ESCORT/BLOCKADE CAMPAIGN: Formal US six-plus-month escort-and-naval-campaign underway at Hormuz (94% standalone track), with official White House acknowledgment of the energy squeeze.",
+  "RUSSIAN BALTIC HYBRID PRESSURE: Multiple sabotage cells confirmed operating across Germany - the grey-zone pre-cursor to Article 5 testing (WSJ/ISW fall-warning window).",
+  "SOUTH KOREA HORMUZ NAVAL DEPLOYMENT (Sept 3, 2026): Reuters - SK preparing to deploy naval combat assets to Hormuz; 70%+ of its crude transits the strait. A war-averse Asian power reaching combat muscle across the planet is the canary for the SYSTEM-WIDE, not regional, character of this conflict.",
+  "INTERLOCKING-CHOKEPOINT MECHANISM: Each theater draws belligerents in via vital chokepoints (Hormuz energy, Baltic resolve, Russian refineries) - the defining structural feature of a World War, not a regional conflict.",
+  "SOUTH KOREAN SELF-FRAMING: SK media framing the deployment around threats to global shipping and energy integrity - the international-logistics framing confirming systemic, not regional, stakes."
+ ],
+ "evidence_contradicted": [
+  "NO FULL MULTIPOLAR COMBAT MOBILIZATION: No NATO Article 5 trigger, no Soviet-style continental army-on-army front, no formal Sino-American engagement - the formal 'world war' threshold is not yet crossed.",
+  "SOUTH KOREA DEPLOYMENT IS PREPARATION, NOT COMMITMENT: SK has prepared/deployed but not yet fired a shot or formally declared combatant belligerency.",
+  "REGIONAL-ONLY READING REMAINS AVAILABLE: A skeptic could argue this is still a contained Persian Gulf war + European grey-zone pressure + deep-strike attrition of Russia, lacking the formal interlocking declaration that defines 1914/1939.",
+  "NATO STILL FORMALLY INTACT: Rutte's 'ironclad' guarantee stance remains officially in force; no formal withdrawal or Article 5 redefinition legislated as of Sept 3, 2026."
+ ],
+ "falsifier": "No cross-theater escalation: the Iran war, Ukraine/Russia war, and potential Baltic conflict do NOT converge into a synchronized multi-front great-power war within the projected window - conflict remains regionalized/contained via off-ramps and deterrence holding.",
+ "forward_watchlist": [
+  "Any NATO Article 5 (or Baltic) trigger interacting with the Iran war and Ukraine front under one banner.",
+  "Russia-Iran coordination deepening - shared escalation against a divided US commitment (the linkage that makes it a world war).",
+  "Whether the US November Pause and China mediation quarantine the fronts (de-escalation) vs. one front igniting the others.",
+  "Uncontrolled escalation triggers: a US naval combatant sunk, a nuclear threshold signal, a Baltic incursion combined with Iran re-escalation.",
+  "PROXY-CHOKEPOINT FIFTH THEATER (added 2026-09-11): Houthi Red Sea coastal expansion \u2014 Bab el-Mandeb ignition via proxy rather than direct state action; watch Israeli strikes on Houthi infrastructure and US fleet repositioning (see houthi-red-sea-escalation-fork.json)"
+ ]
+}
