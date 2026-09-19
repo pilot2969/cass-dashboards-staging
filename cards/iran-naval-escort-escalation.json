@@ -1,0 +1,25 @@
+{
+ "basename": "iran-naval-escort-escalation",
+ "title": "Iran Escalation Against U.S. Naval Escorts and Risk of Major Surface Combatant Strike",
+ "date_made": "2026-09-02",
+ "statement": "As the U.S. forces commercial oil convoys through the Strait of Hormuz under heavy escort, Iran will transition from symbolic missile barrages to aggressive saturation strikes against naval escorts. Applying Robert Pape's 'Escalation Trap' framework, the U.S. assumption of controlling the escalation ladder will fail, carrying a high probability of a major U.S. naval surface combatant being hit or sunk in the Gulf of Oman or Persian Gulf due to depleting interceptor magazines.",
+ "confidence": 86,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Robert Pape's 'Escalation Trap' analysis (Foreign Affairs / DOAC podcast): Overwhelming superiority does not guarantee control; Iran demonstrates exquisite precision targeting and capability for mass-casualty attacks against naval ships.",
+  "Strait of Hormuz escort operations operating at wartime high throughput (~18M barrels) while U.S. long-range precision interceptor stocks are near depletion.",
+  "Recent Iranian ballistic missile and drone strikes hitting regional assets in Kuwait, proving the perimeter's vulnerability to saturation.",
+  "Midterm clock interaction: The 'November Pause' (Reuters, logged) confirms Vance/Rubio managing Iran conflict tempo around the midterm calendar. Iran is aware of the 61-day window and the regime's desperation to project control through Nov 3 -- raising incentive for an attention-forcing naval strike inside the window.",
+  "2026-09-09: Tanker sinkings + Iranian retaliation strikes vs US escorts; escort-war pattern continues compounding",
+  "[2026-09-17] Houthi stranglehold on Bab el-Mandeb raises escort tempo; but WH pivot to China-brokered Iran diplomacy (Saudi routing via Beijing) adds de-escalation branch \u2014 trimmed 2pts for the fork"
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "60 days pass with no successful saturation strike, sinking, or major-surface-combatant hit on a US naval asset in the Gulf of Oman / Persian Gulf, AND US interceptor magazines are replenished to pre-war confidence - the Pape escalation trap did not fire.",
+ "forward_watchlist": [
+  "Interceptor magazine status: any public/leaked reorder, resupply, or replenishment signal vs. continued virtually-all-burned reporting - the trap hinges on magazine depletion.",
+  "Convoy throughput: whether US cuts escorted convoy frequency (de-escalate) or surges it (saturate the escort and invite attack).",
+  "Reported Iranian anti-ship ballistic-missile (ASBM) employment near escorts - a launched ASBM is the leading indicator of trap activation.",
+  "Midterm window: whether Iranian strikes target US vessels (attention-forcing) vs. Gulf-state assets (signaling).",
+  "Any USN combatant hit/sunk report or casualty evacuation from the Gulf."
+ ]
+}
