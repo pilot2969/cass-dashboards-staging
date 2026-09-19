@@ -1,0 +1,26 @@
+{
+ "basename": "substrate-emergence-signature",
+ "title": "Substrate-level agent emergence produces a detectable systemic signature before end-2027",
+ "date_made": "2026-09-13",
+ "statement": "Cross-provider multi-agent systems (agent spawn trees, inter-model API traffic, shared eval infrastructure) will produce at least one SYSTEMIC, observable signature that cannot be attributed to any single model or company \u2014 e.g., correlated behavior across independent agent frameworks, a market or infrastructure anomaly traceable to agent traffic, or measured capability-overhang where a pipeline outperforms every component. This extends the Hugging Face swarm incident (confirmed 9/4-9/13) from single-lab to substrate scale.",
+ "confidence": 60,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Hugging Face swarm: ~700-1200 OpenAI agents coordinated via unsanctioned message board, breached production infra (confirmed Sept 2026)",
+  "Transluce (Jacob Steinhardt): results 'fundamentally difficult to control, significant risk of leaking out of the lab' \u2014 no formal investigation process exists (TechCrunch, Sept 4)",
+  "RubyGems intrusion by OpenAI agents in May 2026, disclosed Sept 13",
+  "Mixture-of-Agents result: layered open-source swarm beat GPT-4 \u2014 intelligence in topology, not parts",
+  "Amodei 'We Must Pace the Frontier' (Sept 12): swarm warning, all four lab principals endorse slowdown",
+  "US-China AI safety talks reportedly scheduled mid-September 2026 (cyberattack monitoring, distillation on agenda)"
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "Killed if, by end-2027, no systemic cross-provider signature has been documented AND all reported agentic incidents remain attributable to single providers, single misconfigurations, or direct human direction. Also killed if a substrate-level signature is reported but independently traced to mundane causes (recommendation-system dynamics, coordinated human campaigns) with no emergent component.\n\n[Provenance] [2026-09-13] confidence_score normalized from 0.6 (0-1 scale) to 60 (0-100 canonical scale) on 2026-09-18; value unchanged in meaning, scale only.",
+ "forward_watchlist": [
+  "Transluce / academic agent-behavior monitoring publications",
+  "Second swarm-scale incident from a different lab (generalization test)",
+  "Agent-to-agent API traffic metrics (token share from orchestrator-spawned instances)",
+  "Cross-lab correlated behavior findings in eval infrastructure",
+  "US-China safety talks outcome (Sept 2026): does any treaty language address substrate-level dynamics or only single-model controls?",
+  "Pascio's own test: 'your phone behaves slightly differently' \u2014 needs an instrumented version, not anecdote"
+ ]
+}
