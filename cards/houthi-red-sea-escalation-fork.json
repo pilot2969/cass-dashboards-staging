@@ -1,0 +1,30 @@
+{
+ "basename": "houthi-red-sea-escalation-fork",
+ "title": "Houthi Red Sea Expansion: Escalation Fork (Resource Strain or Regional Spread)",
+ "date_made": "2026-09-11",
+ "statement": "Houthi coastal expansion along the Red Sea is highly escalatory and will bifurcate within ~90 days (by mid-December 2026): either (a) the US commits additional naval resources to Red Sea escort/interdiction beyond current CENTCOM posture \u2014 straining assets already saturated by the Hormuz blockade response \u2014 or (b) the theater spreads into regional war, most plausibly via Israeli strikes on Houthi infrastructure displacing the Oct 7 foreknowledge scandal (the Sept 8 divergence read: Israel needs escalation, America needs quiet). Distinct escalation pathway from the four logged theaters: proxy-at-chokepoint ignition (Bab el-Mandeb), which does not trip the direct Iran re-escalation triggers on the Master Thesis watchlist because the Houthis are Iranian-aligned but not Iranian-controlled. First theater to escalate via proxy rather than direct state action.",
+ "confidence": 84,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Houthi coastal expansion reported along Red Sea littoral",
+  "US fleet saturation: escort duties already split between Gulf of Oman convoys and Persian Gulf posture (logged Sept 8-11 cycle)",
+  "Divergent-interests structure (2026-09-08 journal): Netanyahu 7 weeks from Israeli election with Oct 7 foreknowledge recording in hand \u2014 external escalation displaces scandal",
+  "Prior precedent: Israeli strikes on Houthi ports/Sana'a infrastructure established in earlier phases of the war",
+  "Master Thesis interlocking-theater mechanism: chokepoint competition draws belligerents in \u2014 Bab el-Mandeb is the second chokepoint after Hormuz",
+  "[2026-09-17] Entire Yemeni Red Sea coast under Houthi control; Mocha + islands seized; guns along 12-mi Bab el-Mandeb; Saudi vessels explicitly excluded from safe passage (Euronews/US News/NBC, 9/17)"
+ ],
+ "evidence_contradicted": [
+  "Houthi capability remains attritional/harassment economics, not sea-denial decisive",
+  "November Pause pressure: US incentive to keep Red Sea quiet into midterms cuts against both prongs short-term",
+  "EU Aspides escort mission already absorbs part of the Red Sea patrol burden without US escalation"
+ ],
+ "falsifier": "If Houthi coastal operations plateau or are absorbed by existing escort rotations (EU Aspides + current CENTCOM posture) with NO new US resource commitment to the Red Sea and NO Israeli-Houthi kinetic exchange by mid-October 2026, the escalation reading is dead and the track downgrades to ambient noise. Prong (a) falsified if US Red Sea posture stays flat through mid-December; prong (b) falsified if no Israeli strike on Yemen/Houthi targets and no Houthi strike on a US naval vessel in the window.",
+ "forward_watchlist": [
+  "Israeli strikes on Houthi infrastructure (Yemen ports, Sana'a) \u2014 the regional-spread aperture",
+  "US carrier group repositioning toward Red Sea vs Gulf \u2014 the resource-strain tell",
+  "Tanker attacks resuming in Bab el-Mandeb (Suez transit rates as private-data tell for effective closure)",
+  "Any Houthi claim of hitting a US naval vessel \u2014 Article 5-adjacent fuse and Master Thesis uncontrolled-escalation trigger",
+  "Iranian resupply flow to Houthis (cross-check de-dollarization track if Iran diverts resources)",
+  "Interaction with SPR runway track (82): every Red Sea escort day competes with Hormuz convoy escort, feeding the oil clock"
+ ]
+}
