@@ -1,0 +1,21 @@
+{
+ "basename": "fertilizer-supply-crisis",
+ "title": "Fertilizer Supply Crisis",
+ "date_made": "2026-07-20",
+ "statement": "Fertilizer prices are high as supplies are limited.",
+ "confidence": 85,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "The Guardian reports 70% price hike for UK farmers",
+  "World Bank reports 15% rise in early 2025 continuing into 2026"
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "Global fertilizer prices normalize to pre-war levels within the next quarter as alternative supply (US domestic, African, or non-Hormuz routes) closes the gap, OR the Strait reopens restoring Gulf fertilizer export flows, relieving both the price floor and consumer food-price pressure.",
+ "forward_watchlist": [
+  "Monthly fertilizer price indices (World Bank, FAO) - sustained >15-20% YoY elevation or return toward baseline.",
+  "Gulf (Qatar/Saudi/UAE) fertilizer export volumes restructuring around Hormuz closure vs. US/domestic capacity absorbing it.",
+  "Whether a food-price-shock narrative appears in domestic midterm politics (the regime transmission layer).",
+  "Actual landed fertilizer cost at US farm gate - the lagging input that hits food shelves 6-9 months out.",
+  "Any fertilizer-specific carve-out corridors in the blockade (humanitarian analog)."
+ ]
+}
