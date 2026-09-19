@@ -1,0 +1,19 @@
+{
+ "basename": "agi-recursive-acceleration-test",
+ "title": "Recursive acceleration: AI-on-AI-research compresses progress only after 2028, if at all",
+ "date_made": "2026-09-10",
+ "statement": "Deploying AI on AI research itself (designing architectures, running experiments, writing proofs) will NOT produce visibly super-linear research acceleration before 2028. Some acceleration is real but bounded by compute, physical experiments, and coordination overhead. If super-linear acceleration appears, it appears 2028-2029 at the earliest, and concentrates in software/algorithm domains before physical-world domains.",
+ "confidence": 60,
+ "status": "pending",
+ "evidence_confirmed": [
+  "Amodei cites 'industry-wide RSI (recursive self-improvement) since summer 2026' as trigger for slowdown call",
+  "Sept 14 market repricing shows acceleration expectations were priced in and are now hedged"
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "A verifiable example of a frontier system producing a Nobel-caliber or field-redirecting scientific breakthrough ahead of expert consensus timelines before 2028; or, conversely, research throughput visibly doubling year-over-year in AI-capability metrics by 2027 (would contradict the bounded claim).\n\n[Provenance] [2026-09-10] confidence_score normalized from 0.6 (0-1 scale) to 60 (0-100 canonical scale) on 2026-09-18; value unchanged in meaning, scale only.",
+ "forward_watchlist": [
+  "AI-for-science announcements with independent replication",
+  "compute capex trajectories",
+  "capability benchmark doubling times"
+ ]
+}
