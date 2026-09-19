@@ -1,0 +1,25 @@
+{
+ "basename": "ground-invasion-of-iran",
+ "title": "Ground Invasion of Iran",
+ "date_made": "2026-07-20",
+ "statement": "We are preparing for a ground based invasion to secure the strait.",
+ "confidence": 49,
+ "status": "pending",
+ "evidence_confirmed": [
+  "American bases devastated by attacks (Breeds need for escalation)",
+  "Lack of tactical options left",
+  "Israeli PM Benjamin Netanyahu openly states in i24NEWS Hebrew interview (Sept 2, 2026): 'We will defeat the regime. All of Israel\u2019s systems are working to overthrow this regime and defeat it,' directly linking external military actions to total regime collapse.",
+  "Primary juxtaposition (Sept 2, 2026): White House private leaks reveal leadership is discussing how to 'quiet quit' or declare the Iran war over to protect midterm optics, directly colliding with real-time reality as Iran launches surprise ballistic missile and drone strikes on U.S. assets in Kuwait\u2014proving the kinetic flywheel cannot be stopped by political wishful thinking."
+ ],
+ "evidence_contradicted": [
+  "China attempting to avoid escalation"
+ ],
+ "falsifier": "No US ground invasion of Iran occurs - the strategy remains air/naval blockade + strikes (anvil), Iran is not invaded, and the regime either sues for terms or the war is quiet-quit/declared contained without boot on Iranian soil.",
+ "forward_watchlist": [
+  "Any troop-deployment/readiness signal (division mobilizations, FORCOM activation orders) pointing at a ground option.",
+  "Whether the quiet-quit/November Pause strategy suppresses ground-invasion momentum (de-escalation) or the regime needs a decisive win (escalation).",
+  "Iran willingness to return to the interim ceasefire (Pezeshkian signal) - a genuine off-ramp that kills the ground option.",
+  "China mediation posture - active de-escalation (lowers ground probability) vs. disengagement (raises it).",
+  "Regime domestic optics: if they NEED a victory before midterms, ground invasion becomes likelier; if quiet-quit serves them, less."
+ ]
+}
