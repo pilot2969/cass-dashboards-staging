@@ -1,0 +1,11 @@
+{
+ "date": "2026-09-15",
+ "track": "oil/hormuz-escalation",
+ "mget_legs_tested": [
+  "leg_1_complexity_cap",
+  "leg_3_enclosure_mutation"
+ ],
+ "verdict": "confirms",
+ "reasoning": "Houthi strike on YASREF Yanbu hits the East-West pipeline terminus \u2014 the same workaround already flagged down this morning. Redundant capacity is being consumed faster than it can be repaired. Escalation tempo (strikes per week) rising while dominant-power response stays rhetorical. Complexity cap leg: system losing spare capacity with no restoration path visible. Enclosure leg: infrastructure control shifting from state monopoly to whoever can strike it.",
+ "forward_signal": "If Brent gaps above ~$115 overnight or Saudi/US retaliates with force, escalation-ladder track accelerates. If both fail to materialize within 72h, the deterrence-collapse read strengthens further \u2014 watch for strike expansion to Ras Tanura."
+}
