@@ -1,0 +1,23 @@
+{
+ "basename": "regime-power-retention",
+ "title": "Regime Refusal to Cede Power Regardless of Outcome",
+ "date_made": "2026-09-04",
+ "statement": "The regime will not cede executive power following the electoral cycle regardless of the numerical outcome, utilizing pre-positioned administrative, postal, and judicial control mechanisms.",
+ "confidence": 76,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Sept 3-4, 2026: Emergency SCOTUS filings seeking USPS discretionary mail-ballot withholding powers.",
+  "Seth Abramson OSINT legal framing identifying executive branch coordination to suppress mail-in ballots as a systemic conspiracy.",
+  "Pre-positioned DOJ enforcement shielding and administrative control scaffolding."
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "A free, fair, certified electoral outcome stands: ballots delivered and counted without USPS discretionary withholding; certification follows the verified result; and the administration accepts a losing result and transfers power - the election-wont-matter mechanism is never deployed at scale.",
+ "forward_watchlist": [
+  "SCOTUS ruling on the USPS leapfrog emergency appeal (ballot-withholding power) - allow or deny is the single biggest swing variable.",
+  "First-mailing week (NC) ballot handling: any observable bulk rejection, batch-mismatch disenfranchisement, or per-voter barcode non-delivery.",
+  "Whether DOJ enforcement-shielding expands to election officials (civil enforcement arm of the retention mechanism).",
+  "Post-Election-Day: does administration certify against the count, invoke emergency powers, or simply refuse to leave? Each is a distinct escalating trigger.",
+  "The public-response telemetry: mobilizing over a stolen election vs. quiet despair-acceptance (the stare-down precondition).",
+  "2026-09-09: Post-Nov 3 gap between announced war-end and power transfer now the sharpest diagnostic on the board"
+ ]
+}
