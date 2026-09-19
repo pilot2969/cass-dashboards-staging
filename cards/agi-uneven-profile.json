@@ -1,0 +1,16 @@
+{
+ "basename": "agi-uneven-profile",
+ "title": "AGI arrives as an uneven profile, not a clean threshold",
+ "date_made": "2026-09-10",
+ "statement": "There will be no identifiable moment or system that counts as 'AGI arrives.' Systems will show superhuman performance in some capacities (synthesis, coding, exam tasks) while remaining unreliable at long-horizon agency, physical-world grounding, and self-knowledge of when they are wrong. Public debate will keep treating it as binary; the reality will remain a gradient through at least 2030.",
+ "confidence": 75,
+ "status": "pending",
+ "evidence_confirmed": [],
+ "evidence_contradicted": [],
+ "falsifier": "A broadly accepted benchmark or event by which the field itself dates 'AGI achieved' as a clean threshold \u2014 e.g., a system passing a pre-registered cross-domain test suite with consensus from major labs that the AGI line has been crossed.\n\n[Provenance] [2026-09-10] confidence_score normalized from 0.75 (0-1 scale) to 75 (0-100 canonical scale) on 2026-09-18; value unchanged in meaning, scale only.",
+ "forward_watchlist": [
+  "frontier model benchmark reports",
+  "lab announcements claiming AGI",
+  "economist/evaluator capability-profile studies"
+ ]
+}
