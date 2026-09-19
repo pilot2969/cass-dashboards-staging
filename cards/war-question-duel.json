@@ -1,0 +1,28 @@
+{
+ "basename": "war-question-duel",
+ "title": "The War Question: Dueling Master Thesis (Spread Track)",
+ "date_made": "2026-09-11",
+ "statement": "Paired duel track \u2014 confidence score = SPREAD, not probability. Thesis A (Interlocking-Theater Escalation, see interlocking-theater-escalation.json, 57): the turning manifests as real, sustained external war; fronts genuinely ignite each other. Thesis B (the Potemkin War, named for effect not intent): external war posture is theater \u2014 loud but shallow, sustained for narrative cover and emergency powers \u2014 then collapses into internal struggle; the real war is domestic. NOTE: the two theses are not opposites \u2014 both terminate in internal struggle; they differ only on route. Scores measure mechanism support from different evidence bases: A is anchored in seven months of escalation receipts; B is currently structure and incentive inference with few positive receipts. The spread (currently +9 toward A) is what moves; each of the three tells shifts it.",
+ "confidence": 9,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "November Pause logic already observed: regime incentive to keep external fronts quiet into midterms \u2014 consistent with war-as-theater rather than war-as-commitment",
+  "Divergent interests (Sept 8): Israel needs escalation, America needs quiet \u2014 the US side of that divergence is the Feint signature",
+  "Houthi Red Sea fork (76, logged 2026-09-11): resource-strain prong vs noise-without-commitment prong is now a live discriminator between the two theses",
+  "Domestic enforcement groundwork track running in parallel: apparatus pre-built for the internal landing regardless of external outcome"
+ ],
+ "evidence_contradicted": [
+  "Real resource commitments already exist: Hormuz convoy escort operations, ten tankers destroyed, month seven of the Iran war \u2014 the war is not purely theatrical",
+  "SPR runway track (82) treats the oil shock as a genuine fatality mechanism; a pure feint would not generate real scarcity dynamics",
+  "Escalation traps, once sprung, do not respect theatrical intent \u2014 Pape's escalation logic can force genuine commitment on an unwilling regime"
+ ],
+ "falsifier": "The duel resolves: if force posture, budgets, and casualty exposure stay flat while rhetoric spikes and domestic enforcement outpaces war spending through Q4 2026, B dominates and A weakens. If external theaters generate sustained verifiable resource commitment (permanent carrier repositioning, war appropriations exceeding domestic enforcement growth, a front the regime cannot de-escalate), A dominates and B dies. The spread collapses toward 0 only if the wire stays genuinely mixed \u2014 which is itself the honest forecast state.",
+ "forward_watchlist": [
+  "TELL 1 \u2014 FORCE POSTURE: carrier group repositioning orders vs. home-port holding during the next rhetoric spike (A move: repositioning; B move: holding)",
+  "TELL 2 \u2014 BUDGET: FY27 supplementary war appropriations vs. DHS/ICE domestic enforcement line-item growth (the cleanest single metric \u2014 money is the one thing a Potemkin cannot fake for long; B signature = domestic wins)",
+  "TELL 3 \u2014 HOUTHI FORK: does the Red Sea theater (houthi-red-sea-escalation-fork, 76) draw real fleet assets (A) or strikes/statements with flat posture (B)?",
+  "SPREAD WATCH: log each tell movement to the mget_ledger as a duel-read; the spread is the forecast, not either thesis",
+  "LANDING CONVERGENCE: whichever thesis wins, watch the domestic apparatus activate \u2014 both routes terminate in internal struggle",
+  "Inversion twin: 9-11-inversion-false-flag (35) supplies the ignition; the Potemkin thesis supplies the sustained posture if B wins the route"
+ ]
+}
