@@ -1,0 +1,27 @@
+{
+ "basename": "2026-09-09-90day-phase4-forecast",
+ "title": "90-Day Forecast: Phase 4 Detonation Window (Sept 9 - Dec 8, 2026)",
+ "date_made": "2026-09-09",
+ "statement": "CASS Monte Carlo forecast (5,000 paths) for the 90-day window: Acute Crisis/Phase 4 detonation 47.7%; Regime Concedes/Transition 26.2%; Regime Holds Contested 19.1%; External War Distraction 7.0%. First acute trigger most probable T-40 to T-20 (early-to-late October, 28.3%). Terminal stress: Hormuz 0.97 (blockade irreversible), De-Dollarization 0.67.",
+ "confidence": 68,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Trump Dividend pledge (Sept 9) - desperation tell at T-56",
+  "Brent breaks $100.72; diesel record $5.94/gal",
+  "SCOTUS postal-ballot docket live with opposition briefs due Sept 9",
+  "Largest tanker wave of war (5 US sinkings, 10 Iranian strikes)",
+  "Regime Refusal track at 78 with accountability trap structurally locked",
+  "Sept 11 (T-53): energy shock accelerates (Brent >$101); $5,000 dividend = desperation confirmation; SCOTUS postal case live with opposition briefs due Sept 9",
+  "2026-09-15: compounding-shock morning \u2014 10Y 5.02% (2007 high), Brent >$108 (both export valves compromised), SCOTUS denial converted into DOJ enforcement probes, space weaponization confirmed \u2014 external+internal stressors land same day, matching window configuration"
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "Forecast is DISCONFIRMED if: (1) no acute trigger lands by Nov 3 (the 33% no-trigger branch dominates); (2) a clean concession/transition occurs without certification crisis (Concede branch > Refusal branch); (3) Hormuz stress collapses below 0.80 via negotiated reopening (terminal 0.97 falsified); (4) diesel retreats below $5.00 through October (energy attrition path falsified). Scenario weighting is falsified if the modal outcome (Acute Crisis) fails to materialize while the Concede branch exceeds 35% of realized outcomes.\n\n[Provenance] [2026-09-09] confidence_score normalized from 0.68 (0-1 scale) to 68 (0-100 canonical scale) on 2026-09-18; value unchanged in meaning, scale only.",
+ "forward_watchlist": [
+  "SCOTUS USPS ruling - VANGUARD DECISION SIGNAL: either outcome is destabilizing; the regime win -> state non-compliance crisis; the regime loss -> refusal-to-comply. This is the VANGUARD rehearsal for how institutional layers behave at the crisis moment - a Leg 4 snap in miniature (Samuel callout)",
+  "October danger window (T-40 to T-20) - certification rules, emergency decrees",
+  "Hormuz escalation or exhaustion-ceasefire by late October",
+  "Punitive consolidation test: do targeted punishments of opposition states consolidate or fragment opposition?",
+  "Dividend-pattern follow-ons: further unfunded retail promises as legitimacy drain",
+  "De-Dollarization: next Norway-style rotation or gold repatriation"
+ ]
+}
