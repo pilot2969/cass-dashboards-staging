@@ -1,0 +1,19 @@
+{
+ "basename": "frx-mget-coupling-1930s-config",
+ "title": "FRX-MGET Coupling: Market-Plumbing Fire Inside the Phase-4 Window Amplifies to 1930s Configuration",
+ "date_made": "2026-09-15",
+ "statement": "If the FRX composite fires (>=70, or per-leg L1+L3 alert) inside the MGET Phase-4 window (Sept 9-Dec 8, 2026), the legitimacy crisis and the market crisis amplify each other \u2014 the 1930s configuration: institutional decay plus financial collapse interacting, with enclosure ratchet effects historically following such couplings.",
+ "confidence": 55,
+ "status": "emergent",
+ "evidence_confirmed": [],
+ "evidence_contradicted": [],
+ "falsifier": "FRX fires (or MGET Phase-4 window elapses with a market event) WITHOUT mutual amplification \u2014 i.e., a market plumbing event inside the window that produces no legitimacy-crisis interaction (institutions function normally, no ratchet response), or the window closes with neither instrument firing.",
+ "forward_watchlist": [
+  "Basis-trade unwind headlines",
+  "New Fed facility creation (a loop just broke)",
+  "SOFR/repo anomalies",
+  "ETF discounts >1% on core funds",
+  "VIX term-structure inversion >3 days",
+  "Post-Nov 3 power-transfer gap (the MGET-side twin signal)"
+ ]
+}
