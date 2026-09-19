@@ -1,0 +1,23 @@
+{
+ "basename": "mid-august-oil-price-shock",
+ "title": "Mid-August Oil Price Shock",
+ "date_made": "2026-07-20",
+ "statement": "A massive price shock in mid-August was projected; it never fully emerged because the regime used creative resource management (SPR releases + naval escorts) to blunt the shock and stretch the runway into the midterm calendar. This prediction has been superseded by the SPR-runway-breaks-before-midterms mechanism (status set to 'failed' as the specific August shock did not materialize).",
+ "confidence": 10,
+ "status": "failed",
+ "evidence_confirmed": [
+  "UBS sounds alarm on oil price for rest of 2026",
+  "Barclays warns of $100 Brent risk",
+  "SUPERSEDED (Sept 3, 2026): The hard August price shock did not materialize as projected. The regime offset the crisis through strategic petroleum reserve releases and a naval escort surge \u2014 creative use of resources that shifted the pressure from an acute price shock to the chronic SPR runway breakage tracked under a separate prediction.",
+  "SPR official data now confirms reserves at a 44-year low (286.6M barrels, ~40% capacity), directly evidencing the resource-burn that averted the August shock but created the November runway crisis."
+ ],
+ "evidence_contradicted": [
+  "Goldman cuts 2026 forecast after potential (rumored) deal"
+ ],
+ "falsifier": "Already FALSIFIED (status=failed): the projected mid-August hard oil-price shock did not materialize. The regime averted it via SPR releases + naval escort surge, shifting the pressure to the SPR-runway-breaks-before-midterms track. Not re-evaluated while it holds failed status.",
+ "forward_watchlist": [
+  "NYMEX Brent failing to break $100 within the original window (falsified the shock).",
+  "Pressure migrated to the SPR runway: SPR weekly drain toward the ~290M cavern-damage floor is now the live successor signal.",
+  "A resurrected hard shock in the pre-midterm window would be carried by the SPR-runway track, not this one."
+ ]
+}
