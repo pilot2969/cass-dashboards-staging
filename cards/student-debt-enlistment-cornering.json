@@ -1,0 +1,29 @@
+{
+ "basename": "student-debt-enlistment-cornering",
+ "title": "Student-Debt Enlistment Cornering (Economic Conscription)",
+ "date_made": "2026-09-04",
+ "statement": "Mechanism: the American state has built a financing model that structurally channels the indebted middle toward military enlistment. Independent policies converge: (a) federal lending to young borrowers; (b) restart of aggressive collections on defaulted loans (May 2025); (c) AI dissolving the white-collar exit hatch the degree-model depends on; (d) enlistment age widened 35->42 (March 2025, AR 601-210) plus relaxed drug-conviction rules; (e) the military marketing up to $65,000 loan repayment to exactly this population. Wire independently names this 'economic conscription' (yourNEWS, Sept 3, 2026). TWO-LAYER CONFIDENCE: mechanism/structural leg 80% (CONFIRMED); attribution/intentional-design leg 28% (NOT supported - convergent opportunism, not orchestration); integrated 60%.",
+ "confidence": 60,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Military recruitment 15-Year High FY2025 - all branches met/exceeded goals (Military.net); DoD population surveys cite 'financial stability and debt management support as decisive factors' in enlistment.",
+  "Enlistment age raised 35->42 effective March 2025 (AR 601-210) + relaxed drug-conviction recruiting rules (The Hill, Al Jazeera, ABC, Stars & Stripes).",
+  "Student-loan collections restarted May 5, 2025 after 5-yr pause; 5.3M borrowers ~$117B in default (June 2025 CRS), 9M borrowers ~$220B in default (March 2026), 13%+ of federal portfolio; aggressive automated involuntary-collection (garnishment, 270-day trigger).",
+  "AI white-collar enclosure: 23% of Q1-2026 layoffs cite AI (Fluxio); Anthropic: AI can handle 90% of office/admin tasks; Amodei: half of entry-level white-collar jobs gone within 5 years; The Atlantic: no existing mechanism to return displaced white-collar workers.",
+  "Army advertises up to $65,000 student-loan repayment (Loan Repayment Program); 'government is both lender and recruiter' (yourNEWS Sept 3, 2026).",
+  "NDAA 2025 military pay raise 5.2%; 2026 NDAA +4.5% - improved benefits make service more financially competitive during labor-market uncertainty."
+ ],
+ "evidence_contradicted": [
+  "Attribution leg (INTENTIONAL weaponization by state design): not supported. Age expansion framed as labor-shortage response to 2022-23 recruiting shortfalls; collection restart framed as fiscal/revenue policy; AI displacement is an uncontrolled market force; loan-repayment program predates the moment as standing congressionally-passed benefit (CLRP). Convergent opportunism, not orchestration.",
+  "Direct causal correlation between debt levels and enlistment rates not yet established by the wire - factors overlap (pay, benefits, job-market, patriotism)."
+ ],
+ "falsifier": "The cornering-mechanism claim breaks if: (a) high student-debt demographic enlistment does NOT disproportionately rise vs low-debt cohorts; or (b) aggressive collection is reversed while enlistment holds steady; or (c) age-expansion and loan-repayment programs are revoked/discontinued and enlistment does not fall; or (d) displacement of white-collar degree-holders reverses without a corresponding drop in indebted enlistment. Attribution leg falsified by absence of any documentary trail linking education-financing policy to military recruitment targets.",
+ "forward_watchlist": [
+  "Does the high-debt cohort (25-42, now eligible) enlistment share the PENTAGON data actually show a disproportionate rise?",
+  "Any federal action to reverse or keep aggressive collections + wage garnishment through 2026.",
+  "Age-42 + drug-conviction recruitment pool: does continued enlistment shortfall force FURTHER relaxation (draft contingency, 'Total Force' mobilization)?",
+  "AI displacement acceleration into late 2026 - does white-collar job loss push more into the 25-42 indebted enlistment pool?",
+  "CLRP/Loan Repayment expansion in future NDAA - does debt relief become the primary marketing lever?",
+  "Draft-relevant signals: Selective Service expansion, 'Total Force' language, draft-panic news (DE Online, USA Today on possible draft for Iran war)."
+ ]
+}
