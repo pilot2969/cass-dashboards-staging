@@ -1,0 +1,20 @@
+{
+ "basename": "institutional-health-arbiter-refinement",
+ "title": "Institutional health is the arbiter of dehumanization-acceleration outcomes",
+ "date_made": "2026-09-16",
+ "statement": "Dehumanization acceleration is a SYMPTOM of systemic sickness, not a MECHANISM predicting outcome. The same acceleration signal resolves differently depending on institutional health: in functioning democracies with strong institutions, accelerating dehumanization triggers the McCarthy pattern \u2014 the movement accelerates, plateaus, and absorbs itself (permanent mobilization mode) because institutions keep routing the energy into channels that demobilize it (censure, courts, electoral defeat). In degraded-institution contexts (Weimar 1932, Rwanda 1993), the same acceleration precedes threshold action because no institutional channel exists to absorb the energy. Institutional health is therefore the CONDITIONING VARIABLE that determines which branch of the indicator fires, and must be scored alongside acceleration velocity, not after it.",
+ "confidence": 70,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "McCarthyism 1947-54: strong courts (Watkins v. US 1957), Senate censure (Dec 1954), press turning (Army-McCarthy hearings televised) absorbed the movement despite peak acceleration in 1950",
+  "UK interwar 1934-38: strong institutions (Cable Street policing, Public Order Act 1936, electoral exclusion) plateaued BUF despite pre-1936 acceleration",
+  "Weimar 1932-33: courts and party system still formally present but already hollowed by 1930 presidential decree rule \u2014 institutional health DEGRADED, so acceleration routed to threshold action instead of absorption"
+ ],
+ "evidence_contradicted": [],
+ "falsifier": "If a case exists where institutions were independently verified as healthy (free courts, contested elections, professional civil service) AND dehumanization acceleration led directly to threshold action without an intervening plateau, the conditioning-variable model fails and dehumanization acceleration is a direct turning mechanism. Also falsified if institutional health scores fail to discriminate: i.e., if turning cases and absorption cases show indistinguishable institutional-health profiles at the moment of peak acceleration.",
+ "forward_watchlist": [
+  "Score US institutional health quarterly against the same axes used in backtests: court independence, electoral channel function, civil-service resistance capacity, legislative censure capacity",
+  "Weimar institutional-health profile 1930-33 as the degraded-baseline template (Br\u00fcning decree governance, Reichstag paralysis, judicial capture)",
+  "Threshold question for live series: does US 2026 institutional profile look more like 1950 America (absorptive) or 1932 Weimar (non-absorptive)?"
+ ]
+}
