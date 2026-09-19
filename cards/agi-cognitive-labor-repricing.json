@@ -1,0 +1,17 @@
+{
+ "basename": "agi-cognitive-labor-repricing",
+ "title": "Cognitive labor reprices first; political instability concentrates in the credentialed middle class",
+ "date_made": "2026-09-10",
+ "statement": "Through 2030, AI deployment will visibly reprice cognitive work (entry-level white collar, junior legal/finance/analysis, routine coding) faster than physical and relational work. The political friction from displacement will concentrate in the credentialed middle class \u2014 the overproduced cognitive elite \u2014 manifesting as credential-devaluation fights, elite-turned-populist movements, and enclosure battles over who may deploy AI professionally.",
+ "confidence": 65,
+ "status": "pending",
+ "evidence_confirmed": [],
+ "evidence_contradicted": [],
+ "falsifier": "By end of 2030, either (a) cognitive-sector unemployment/wage compression remains statistically indistinguishable from pre-2025 trends, or (b) the strongest political AI-backlash constituencies turn out to be working-class/physical-labor sectors rather than credentialed professionals.\n\n[Provenance] [2026-09-10] confidence_score normalized from 0.65 (0-1 scale) to 65 (0-100 canonical scale) on 2026-09-18; value unchanged in meaning, scale only.",
+ "forward_watchlist": [
+  "BLS and EU labor statistics on professional occupations",
+  "bar/accounting/medical licensing fights over AI practice",
+  "credentialism rhetoric in elections",
+  "graduate employment-entry rates"
+ ]
+}
