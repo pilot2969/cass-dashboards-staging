@@ -1,0 +1,43 @@
+{
+ "basename": "spr-runway-breaks-before-midterms",
+ "title": "SPR Runway Breaks Before Midterms \u2014 Oil Shock as Regime Fatality",
+ "date_made": "2026-09-01",
+ "statement": "The regime is running the US Strategic Petroleum Reserve down to the bone (~290M barrel cavern-damage floor, no refill capacity while at war) while papering over the Hormuz supply collapse with a 'stolen Venezuelan oil' narrative that cannot physically flow fast enough. A breakable oil shock will land BEFORE the November midterms \u2014 driven by either SPR breaching the ~290M floor, a major convoy/tanker loss, or a Bab el-Mandeb closure \u2014 and it may be the regime's fatality, not merely its electoral loss.",
+ "confidence": 91,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "SPR fell below 300M barrels (lowest since 1983); ~293M as of Aug 14, ~41% of 714M capacity",
+  "SPR drain rate ~3.7-6.1M bbl/week with no refill capability during wartime",
+  "Hormuz transits collapsed ~88-95% from baseline (~100+/day pre-war to single/low-double digits; Windward logged 10 on Aug 30, Kpler 7 worst-day, PortWatch 3 on Aug 23)",
+  "Normalized flow (~10M bpd claim) weighted toward Iran's sanctioned AIS-dark supertankers, not American-consumer supply",
+  "Venezuela '65B barrel partnership' is a claim on reserves, not a physical supply line \u2014 narrative prop buying time",
+  "US net import shortfall ~6.8M bpd; SPR alone covers only ~1.4 months if imports fully cut",
+  "CNBC experts flag cavern-damage operational risk below ~290M barrels",
+  "Houthis formally entered the war threatening Bab el-Mandeb; ~15.5% closure odds priced (now trending)",
+  "US struck Iran's Larak Island Aug 30 \u2014 agitation cycle ticking back up",
+  "Sept 1, 2026: Adoption of 'tanker for tanker' active bombing campaign against Iranian state tankers directly threatens the fragile, remaining crude flow through Hormuz, severely compounding the risk of an oil shock before midterms.",
+  "Sept 1, 2026 (DOE / ABC News Wire): Official Department of Energy data confirms SPR drops to 286.6 million barrels (lowest since 1982 / 40% capacity), with 128M barrels drained since Feb. Global oil tops $92/bbl and US gas crosses $4/gal amid active 'tanker for tanker' strikes.",
+  "Midterm clock (Nov 3, 2026, 61 days out): 172M bbl SPR release + 400M multinational coordinated release confirmed; SPR below half capacity and draining faster than any prior admin. The release is explicitly timed to hold gas prices through Election Day -- the reserve IS the runway to Nov 3.",
+  "2026-09-09: Trump publicly states Iran war will end right after midterms (Reuters) \u2014 principal concedes the electoral runway is the binding constraint; corroborates runway-breaks-before-midterms mechanism from the top",
+  "Sept 11: Brent >$101/WTI >$96 sustained \u2014 highest since July; diesel $5.94; ten tankers destroyed past week per CENTCOM; war in month seven",
+  "2026-09-16 (Chevron CEO Mike Wirth, per WSJ): fuel crisis oil executives warned of has 'officially arrived'; mitigation buffers 'largely now played out'; system holding nowhere near war-start buffers - CORROBORATES the buffer-depletion mechanism of this prediction from the sector's largest US producer, corporate tier. Wirth has not spoken to Trump since Aug 3 ('DOWN, NOW!' demand). Also 9/16: Fed hiked 25bps into depleting-buffer system (stagflation config); Saudi east-west pipeline outage (4% global supply threat, 9/15) compounds; House adjourned until after midterms with gas-tax fix dead.",
+  "[2026-09-17] Crude ~$102 (+21.5% mo, +61% y/y); US distillate inventories forecast below 100M bbl through YE2026 (EIA STEO Sept); United cutting December flights on fuel cost; American adding ~$ per-gallon surcharge \u2014 consumer tier reached",
+  "2026-09-18 (EIA weekly, via TKL): SPR -403k to 285.4M bbl \u2014 lowest since Nov 1982; 25th straight weekly decline; -131M/-46% since 2021-23; commercial crude ex-SPR 423.4M, lowest since ~2014. The ~290M cavern-damage floor trigger leg is now breached \u2014 prediction's primary trigger satisfied with 7 weeks to Election Day."
+ ],
+ "evidence_contradicted": [
+  "US EIA (w/e Aug 14) showed crude inventories rose 4.4M bbl \u2014 commercial crude loosening even as products tighten",
+  "Regime has so far kept retail gasoline suppressed via SPR drain + trickle; no national price shock yet",
+  "Prediction markets still see Bab el-Mandeb closure as minority event"
+ ],
+ "falsifier": "Retail gasoline prices hold or fall through Election Day (Nov 3) via sustained SPR drain + trickle-flow, AND the SPR does NOT breach the ~290M cavern-damage floor before the midterms, AND no major convoy loss/Bab el-Mandeb closure lands - the regime successfully stretches its runway past the election without a break.",
+ "forward_watchlist": [
+  "SPR level weekly vs ~290M floor (runway arithmetic to Nov 3)",
+  "Retail gasoline vs $4/gal political line",
+  "Bab el-Mandeb closure odds (Houthis in war; Oman channel may signal de-escalation - BOTH directions matter now)",
+  "Sector-consensus test: do other majors corroborate Wirth (Exxon, ConocoPhillips, API)",
+  "Term structure (contango/backwardation) and any SPR release announcements",
+  "Whether foreign-agent vote frame absorbs the price story before corporate testimony reaches mainstream (blame-canal race)",
+  "House return status - the empty-legislature test during the runway period",
+  "Weekly SPR prints through Nov 3; emergency-drawdown vs silent-drain fork; retail gasoline <$6 hold; Hormuz tanker-loss cadence; Bab el-Mandeb closure; EIA STEO revision off $90 hold"
+ ]
+}
