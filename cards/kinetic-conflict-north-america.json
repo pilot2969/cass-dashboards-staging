@@ -1,0 +1,24 @@
+{
+ "basename": "kinetic-conflict-north-america",
+ "title": "Kinetic Conflict on North American Soil",
+ "date_made": "2026-09-07",
+ "statement": "The materialization of overt or gray-zone kinetic conflict (state-sponsored sabotage, proxy operations, infrastructure kinetic attacks, or localized civil violence) directly crossing onto North American sovereign soil during the current Crisis phase.",
+ "confidence": 40.0,
+ "status": "emergent",
+ "evidence_confirmed": [
+  "Escalation of gray-zone cyber and physical sabotage against critical substrate in Europe and maritime chokepoints, signaling normalization of kinetic cross-border gray-zone tactics.",
+  "Internal polarization reaching physical flashpoints in public spaces (e.g., Ohio county fair incidents, horizontal erosion of social roles, institutional legitimacy collapse).",
+  "Presidential/executive rhetoric and mapping shifting toward continental annexation imagery (the 'New America' / continental map cycle, September 2026).",
+  "DOMESTIC FACTION TELEMETRY (Facebook / American Nationalists, Sept 7, 2026): Visual receipt of Patriot Front activists conducting organized physical hiking/presence operations on Mount Diablo, Northern California. Distinctive matching uniforms, masked faces (identity concealment for gray-zone operational safety), formalized branding ('American by Blood', patch insignia), and adhesive placarding. STRUCTURAL READ: Illustrates the maturation of sub-state armed/cadre factions operating in the US domestic space. This is the domestic parallel to the vanguard-vulnerability thesis (similar to the European settler/paramilitary dynamic): cadre organizations moving from anonymous online recruitment to physical, uniformed territorial presence and prop-marking. FOG assessment: As state institutional capacity fragments under polarization and economic stress, sub-state factions increasingly pre-position physical cadres and contested-space markers. Contributes to Leg A (gray-zone friction / civil polarization)."
+ ],
+ "evidence_contradicted": [
+  "Traditional military doctrine in Washington still prioritizes expeditionary overseas deterrence over domestic kinetic defense.",
+  "No formalized, declared state-actor military invasion or bombardment of North American population centers."
+ ],
+ "falsifier": "A verified de-escalation of gray-zone proxy warfare back to normative diplomatic channels accompanied by structural restoration of border and infrastructure security guarantees across US/Canada/Mexico over a consecutive 24-month window.",
+ "forward_watchlist": [
+  "Unexplained physical damage or sabotage events targeting North American undersea internet cables, electrical transmission grid nodes, or fuel pipelines.",
+  "Escalation of state-sponsored proxy or cyber kinetic actions that successfully breach physical-world critical infrastructure in the US or Canada.",
+  "Militarized civil unrest or localized armed clashes at domestic infrastructure chokepoints."
+ ]
+}
