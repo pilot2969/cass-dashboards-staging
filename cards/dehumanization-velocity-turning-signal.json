@@ -1,0 +1,18 @@
+{
+ "basename": "dehumanization-velocity-turning-signal",
+ "title": "Dehumanization velocity accelerates as a turning approaches",
+ "date_made": "2026-09-16",
+ "statement": "The rate of dehumanizing rhetoric events (category claims about whole populations) accelerates measurably as a regime approaches a turning \u2014 kinetic escalation, purge, or consolidation threshold. The signal is the SLOPE (events per unit time), not the absolute count. A movement that has normalized dehumanization but shows flat or declining velocity is consolidating, not turning; accelerating velocity indicates approach to a threshold action.",
+ "confidence": 55,
+ "status": "pending",
+ "evidence_confirmed": [],
+ "evidence_contradicted": [],
+ "falsifier": "If historical backtest series (Weimar 1930-33, Rwanda 1990-94, Armenia 1914-15, plus US 2025-26 real-time) show no systematic acceleration in dehumanization event frequency in the 6-12 months preceding threshold actions \u2014 i.e., flat distribution \u2014 the symptom is noise and the indicator is retired. Secondary falsifier: if acceleration is present but non-leading (peaks after the threshold event), the signal is lagging, not predictive, and downgraded to descriptive.",
+ "forward_watchlist": [
+  "Monthly dehumanization_event count from absorption bin (dehumanization_frame:true) vs 90-day rolling baseline",
+  "Migration up source hierarchy: influencer -> elected official -> administration official",
+  "Emergence of category-frame language in official justification documents (EOs, war messaging)",
+  "Historical backtest: Weimar press 1930-33 antisemitic decree/press frequency",
+  "Historical backtest: RTLM Rwanda 1990-94 hate-broadcast frequency"
+ ]
+}
