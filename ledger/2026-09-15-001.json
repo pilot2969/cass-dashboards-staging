@@ -1,0 +1,10 @@
+{
+ "date": "2026-09-15",
+ "track": "oil-energy",
+ "mget_legs_tested": [
+  "leg_3_enclosure_mutation"
+ ],
+ "verdict": "strains",
+ "reasoning": "Wire 14:42 \u2014 Oil shock deepens: Saudi cancels cargoes after pipeline hit (Reuters), loadings halt; Brent +$3 on Saudi halt plus LIBYA outages (second producer state); Al-Monitor: Saudi 'running out of oil export options'; national diesel record, NJ gas $4.43; Costco limits motor-oil purchases (retail rationing signal). BUT: EIA says global output returns to pre-war level by year end \u2014 the physical crisis has a clock; the NARRATIVE crisis doesn't.",
+ "forward_signal": "Crash-narrative half-life vs. physical relief timeline: which resolves first? Goldman $120 tail vs. EIA year-end normalization."
+}
