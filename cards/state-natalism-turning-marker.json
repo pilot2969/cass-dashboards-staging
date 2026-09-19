@@ -1,0 +1,21 @@
+{
+ "basename": "state-natalism-turning-marker",
+ "title": "State Natalism Intensity as Turning-Phase Marker",
+ "date_made": "2026-09-16",
+ "statement": "State-level fertility-recovery programs (natalism as political program) intensify disproportionately in pre-crisis/turning phases, because natalism appears when the state perceives its demographic base as a strategic resource in an existential competition between social orders. Natalism policy intensity is a better turning-phase marker than raw TFR, which declines secularly and thus carries a base-rate trap. Sharpened signals: (1) cohort fertility-gap divergence (liberal-secular vs religious-national) widening in pre-turning phases; (2) elite family-formation collapse feeding elite-overproduction dynamics; (3) natalism policy escalation - cash grants, motherhood honors, reproduction rhetoric in state media, fertility clinics as national projects, anti-abortion expansion framed as demographic defense, restrictions on emigration of natal-cohort women in extreme cases.",
+ "confidence": 60,
+ "status": "pending",
+ "evidence_confirmed": [
+  "Historical training set: French demographic anxiety and natalist code pre-1914; Weimar/Nazi Mother's Cross and marriage-loan programs; Ceausescu Decree 770; contemporary Hungary (CSOK family grants, constitution-level marriage-family clauses, NOKSIS); Russia (Mother Heroine reinstatement 2022, maternity capital escalation, 'traditional values' constitutional framing) - natalism escalation each co-occurring with regime stress phases"
+ ],
+ "evidence_contradicted": [
+  "Nordic states run substantial pro-family policy in stable phases without turning escalation - so the marker must be scored as ESCALATION/INTENSIFICATION of existing policy plus rhetoric tone, not mere policy existence"
+ ],
+ "falsifier": "A sustained multi-decade period of severe interstate/inter-order competition WITHOUT escalating state natalism, or natalism escalation during genuinely stable phases, would break the marker's diagnostic value. Also falsified if cohort fertility gaps fail to widen during confirmed pre-turning stress phases in the training set.",
+ "forward_watchlist": [
+  "US federal and state natalism proposals: baby bonuses, motherhood medals/awards, fertility-clinic nationalization or funding pushes, 'pronatalist' White House conference, agency restructuring toward family formation",
+  "anti-abortion escalation framed explicitly in demographic-defense terms (rebirth of the nation) vs. framed in moral terms - the demographic framing is the marker, not the policy itself",
+  "immigration-restriction rhetoric shifting from economic frames to demographic-survival frames - 'replacement' as official vocabulary is the completed fusion of natalism and dehumanization tracks",
+  "Russia/Hungary natalism escalation as comparator series; China pro-natalist panic escalation as null-comparator (authoritarian natalism without liberal base)"
+ ]
+}
