@@ -2,7 +2,7 @@
  "meta": {
   "name": "CASS Dashboards",
   "version": "3.1.0-data-layer",
-  "generated": "2026-09-27",
+  "generated": "2026-10-01",
   "source": "Rool Machine space export"
  },
  "macro_forecast": {
@@ -363,6 +363,32 @@
    "confirmer": "TIERED per Confirmation Standard. TIER 2 (headline - successor grid densifies): Fusus or equivalent AI-fusion layer reaches registered deployment scale (multi-city integration, unified query interface in production across jurisdictions) such that the fusion layer becomes the substrate story rather than any plate-vendor. TIER 1 (mechanism tells): additional Fusus city onboarding, integration partnerships, RFP/procurement documents referencing fusion layers. DEDUP RULE: this card is the Tier 1 substrate for the ALPR decoy card - if both fire, the ALPR card takes the headline and this card confirms as its mechanism tell, not independently.",
    "confirmer_base_rate": "Tier 2: moderate-high (~50-60% naive; moderate skill signal). Tier 1: high (~75%), discounted.",
    "confirmation_window": "Through Jun 30, 2027"
+  },
+  {
+   "basename": "c-002-midterm-certification-contestation-amended",
+   "title": "C-002 \u2014 2026 midterm certification contestation (amended claim, successor to C-001)",
+   "date_made": "2026-09-30",
+   "time_et": "19:48",
+   "statement": "Five closed apparatus-actor classes (President/WH staff; DOJ incl. Civil Rights Div & Election Crimes Branch; DHS incl. CISA; US Attorneys in contested-count districts; national party committees + funded legal ops) take at least one qualifying documented official action between Nov 3 and Dec 14, 2026: refusal to certify; indefinite delay beyond statutory deadline; litigation filed/joined by a named actor; or federal personnel deployment to polling/count locations in confrontation posture. Private litigation, legislative statements, social-media claims excluded. Pre-build tell: >=2 documented pre-Nov-3 fraud-narrative activations by named actors/principals (public, before results known). Prob mass: Branch A 30% | pre-build tell w/o Branch A 35% | null 35% (null raised from original 10% per Ruling Condition 5).",
+   "confidence": 0.3,
+   "status": "pending",
+   "evidence_confirmed": [
+    "Item 2: whistleblower account of electoral-machinery capture attempts (2026-09-14) \u2014 reduced weight pending corroboration",
+    "Item 3: reported conditioning of federal disaster relief on electoral outcome (2026-09-17) \u2014 scoped to pre-build predicate only"
+   ],
+   "evidence_contradicted": [
+    "None as of filing"
+   ],
+   "falsifier": "By 2026-12-14: all contested-state certifications complete by statutory deadline without qualifying action by any named actor AND pre-build tell does not fire (<2 qualifying activations before Nov 3). Partial grading: tell without Branch A action confirms tell tier only.",
+   "forward_watchlist": [
+    "Pre-build activation count (assessment 2026-11-03)",
+    "State certification deadlines (assessment 2026-12-14)",
+    "DOJ/DHS election-crimes and CISA personnel deployments",
+    "Party-committee litigation filings"
+   ],
+   "confirmer": "Per-state certification records; DOJ/DHS dockets; pre-build activation log",
+   "confirmer_base_rate": "Federal contestation of certification in any presidential-era midterm: none observed in 1980-2024 baseline",
+   "confirmation_window": "2026-11-03 to 2026-12-14 (pre-build: 2026-11-03; certification: per-state statutory deadlines complete 2026-12-14)"
   },
   {
    "basename": "cdc-epistemic-capture",
@@ -778,6 +804,39 @@
    "confirmer": "SINGLE-TIER (clean falsifiable claim) per Confirmation Standard. CONFIRM: overt US or US-led ground invasion of Iran (defined: sustained ground operations inside Iranian territory by US forces or explicitly US-commanded coalition, beyond raids/SOF operations) within the window. Binary adjudication; raids and SOF actions do not count; a naval blockade or air campaign alone does not count. The card sits at 49% - near-coin-flip - so a firing is a strong skill signal and a non-firing is a strong miss signal, both fully creditable.",
    "confirmer_base_rate": "~49% naive by the card itself - maximum skill-signal leverage either way.",
    "confirmation_window": "Through Jun 30, 2027"
+  },
+  {
+   "basename": "hegseth-loyal-force-war-on-enemies",
+   "title": "Hegseth loyal-force infrastructure precedes enemy designation \u2014 war against the 'enemy within' under religious mandate",
+   "date_made": "2026-09-30",
+   "time_et": "21:45",
+   "statement": "The 2026 institutional stack (20% billet cut w/ Jan 1 2027 deadline; Office of Religious Affairs with direct-report authority; AUTOWARCOM AI/autonomous targeting command; FORTRESS America grid independence; War Department Field Manual as loyalty canon; Project Meridian civilian war-doctrine body) constitutes infrastructure for a force selectable for loyalty and religious alignment rather than competence or restraint. Hegseth's written corpus (American Crusade 2020) frames domestic opponents as invaders. Prediction: the machinery is built BEFORE specific enemy designations are needed, so that when the designation comes (post-midterm legitimacy crisis the most likely trigger), the force executes without multi-year selection lag.",
+   "confidence": 0.24,
+   "status": "pending",
+   "evidence_confirmed": [
+    "2026-10-01 morning wire: loyalty framing went live \u2014 Hegseth accused 'anti-American losers in our media' of TREASON over Iran-war coverage, delivered to junior officers/enlisted (priming below the G/FO tier); audience numbers and slot-cut formalization both confirmed from wire coverage.",
+    "2026-10-01: AUTOWARCOM announced as four-star combatant command for AI/autonomous targeting (est. Oct 2027) \u2014 targeting organ confirmed separate from the Minab accountability question.",
+    "2026-09-30 Quantico State of the Force: 20% billet cut w/ hard deadline ('can't change a culture with the same people who enabled it'); Office of Religious Affairs with 'real teeth'; AUTOWARCOM created; War Department Field Manual distributed as liturgy; 20+ scripture references, 'the real battle is spiritual'.",
+    "UPDATE 23:45: Bloomberg/CNBC/Common Dreams confirm Musk, Luckey, Gingrich attended IN PERSON \u2014 announced by name from the stage while seated before the assembled force. Meridian moved from paper appointment to embodiment on day one.",
+    "2025-09-30 lecture provided the blueprint ('resign if your heart sinks'); 2026-09-30 delivered the machinery.",
+    "USCIS unlawful-voter initiative + election-infra memo (military cyber in domestic elections) show pre-staged domestic operational authorities.",
+    "Sacralization track: 2026-09-18 legislative-halls, 2026-09-21 Christian-trolling-theology entries corroborate religious-mandate direction."
+   ],
+   "evidence_contradicted": [
+    "None yet. Billet cuts are billets-not-heads, which could be purely budgetary \u2014 the strongest innocent reading."
+   ],
+   "falsifier": "If by mid-2027: (1) billet cuts fall randomly across functional areas rather than concentrating in JAG/IG/EO/MEO/chaplaincy; (2) Office of Religious Affairs remains advisory, no chaplaincy-budget or promotion-input authority; (3) no operational deployment of military force against a domestic entity under 'enemy within' framing; (4) Field Manual not extended into required indoctrination; (5) Meridian principals remain advisory-only \u2014 then the stack is culture-war cosplay, not loyal-force infrastructure, and the prediction is falsified. || ADJUDICATED C-015 (2026-09-30): original form OVERTURNED, revised form REVISED with Required Conditions 1-7 \u2014 L1 alignment-covariation with denominators exposed, converse >=1.5x cohort rate p<0.05; L1-informal pathway limb; L2 live only on FOIA'd/published charter (else 10 USC 1786 pastoral scope); L3 two-of-three predicate chain by 2027-06-30; interim checkpoint 2027-01-01; null band \u00b11.5\u03c3 of 2015-2024 rolling baseline vs pre-cut inventory; base-rate error flagged to calibration record; chaplaincy 'denominational and doctrinal selection effects' STRUCK from record pending documentation. | C-015 STATUS 2026-10-01: CLOSED. Verdict REVISED (original form OVERTURNED). Sequestered triad ran validly - prosecution intake, brief, defense rebuttal, and self-contained Judge Package all on file (/rool-drive/docs/Case 015 - Full Case File.md). Required Conditions 1-7 in force; grades Defense B+, Prosecution A; chaplaincy 'denominational and doctrinal selection effects' STRUCK from record pending documentation. NOTE: an interim retraction (2026-10-01 by Operations, misreading trial provenance) was itself withdrawn on owner's correction - the retraction was the C-015 sec.4.5 failure mode reproduced (a chat judging a trial from partial context).",
+   "forward_watchlist": [
+    "Fusion test: Office of Religious Affairs gains chaplaincy-budget or promotion-input authority",
+    "Billet-cut disbursement pattern by command type (targeted vs random)",
+    "First domestic operational authority for military cyber/NSA under election-infra memo",
+    "AUTOWARCOM staffing and first targeting authorities",
+    "Field Manual indoctrination hours",
+    "Meridian formal-authority grants \u2014 Federal Register notice = upgrade trigger"
+   ],
+   "confirmer": "SAM + Operations",
+   "confirmer_base_rate": "structural-fabrication predictions this cycle: 8 of 9 confirmed",
+   "confirmation_window": "2026-09-30 to 2027-06-30"
   },
   {
    "basename": "houthi-red-sea-escalation-fork",
@@ -1244,33 +1303,18 @@
    "title": "Press Access Enclosure \u2192 Media Capture (pool collapse \u2192 friendly-inherit \u2192 enforcement)",
    "date_made": "2026-09-22",
    "time_et": "10:35",
-   "statement": "The WH will convert the press-pool vacuum (created by the 9/18-9/22 credential revocations and the networks' pool suspension) into a permanent, structured access regime before the 2026 midterms \u2014 via an officially designated replacement pool (OAN/RSBN-style), selective 'friendly-inherit' access grants, or both. The enemy frame ('foreign adversaries', 'FAKE NEWS cancer') and the 'privilege not right' meme are the enabling preconditions for this consolidation, not the consolidation itself. Sequence: priming (now) \u2192 assignment of access (weeks) \u2192 possible enforcement/leak-prosecution escalation against named outlets (months, midterms-adjacent).",
-   "confidence": 70,
+   "statement": "CORRECTED PER SEQUESTERED TRIAD RULING C-004 (2026-09-30; original confidence 70 -> 45). Successor claim: the WH will take at least one act of structural access construction before 2026-11-04 \u2014 an official-channel roster naming that excludes at least one previously seated legacy network and persists unmodified 14+ days, OR at least three friendly-inherit grants each persisting 14+ days with reallocation to named outlets whose prior-90-day WH coverage was substantively favorable. Scored under the partition rule. Persistence of any post-episode arrangement through 2027-06-30 is an OPEN QUESTION, not a prediction, until a base-rate derivation is filed; no number may be assigned in the interim. Items 1-5 scored as one episode; 9/22 gap closure is in-sample fit, zero out-of-sample weight. 'Permanent' dropped.",
+   "confidence": 45,
    "status": "pending",
    "evidence_confirmed": [
-    "09-10 media vanguard split (first outlet breaks with pool solidarity)",
-    "09-18 WH media ban + credential revocations (policy layer)",
-    "09-20 Martin Houchins op-ed (legal-theory layer: access is privilege, not right)",
-    "09-21 networks suspend pool coverage over the ban (coverage gap opens)",
-    "09-22 gap closes on UNGA day exactly as predicted",
-    "09-22 Clandestine enemy-frame post + Trump 'FAKE NEWS cancer' Truth Social (base-mobilization layer)",
-    "09-22 'privilege not right' meme propagation to regional pages (long-tail stratum)",
-    "Track standing: 7-for-7 confirmations since 09-10",
-    "09-23 networks HOLD: Fox stays in five-network solidarity bloc, NYT 'Fox News Finds Itself at Odds With Trump on Press Ban'; base pressure now targets Fox for siding with 'fake news'",
-    "09-23 right-of-center framing defection: Washington Examiner covers ban as 'Trump with a cable blackout' \u2014 self-inflicted wound frame at elite tier",
-    "09-23 'privilege not a right' enters a federal filing (DOJ TRO response brief) \u2014 meme ratified as government legal position; Judge Kelly (Trump appointee) appears skeptical at 1PM hearing, no ruling yet",
-    "09-23 Navarro: Fox retained in PRINT pool while TV pool suspended \u2014 pool-split strategy confirmed live",
-    "Track standing: 8-for-8 since 09-10",
-    "2026-09-24 12:30 deadline: Kelly ordered same-day response to noncompliance notice (CNBC/CNN/Guardian)",
-    "2026-09-24 ~14:00: FULL CAPITULATION \u2014 hard passes restored for CNN/MS NOW/Politico; no contempt fight; TRO 14-day clock running; PI merits next (network solidarity, Kalshi market pricing, national-security justification rejected as pretext)",
-    "2026-09-25 RECALIBRATION \u2014 PARTIAL RESTORATION, NOT CLEAN FOLD: (1) TV pool machinery remains suspended post-TRO; bodies physically back in the building, pool access still blocked (Just Security early edition). (2) Networks signal they will NOT resume normal coverage until CNN is formally reinstated \u2014 solidarity holding beyond physical access. (3) SAME-DAY RE-BAN: Trump barred CNN/MS NOW from covering Xi's state visit arrival \u2014 testing whether compliance is one-directional (regime grants access, then revokes for the next event). (4) Hatch Act exposure: WH running a government-funded midterm ad on Fox News/Newsmax framed as 'educational and unapologetically patriotic' \u2014 Raskin flags violation (Just Security). This is the spin-dictator channel expanding while press-access litigation continues \u2014 state resources subsidizing the friendly-media layer even as the adversarial layer is partially restored. NET: 'capitulation' branch needs refinement \u2014 this is attrition-style tactical concession, not structural fold. Watch whether the re-ban pattern repeats on the next high-visibility event (Xi visit is the live specimen). Track standing: 9-for-9 since 09-10."
+    "One episode (09-10 vanguard split, 09-18 ban + revocations, 09-20 Houchins op-ed, 09-21 network pool suspension, 09-22 gap closure on UNGA day) \u2014 five facets, scored as ONE episode; 9/22 closure rescored as in-sample fit, zero out-of-sample weight"
    ],
    "evidence_contradicted": [
     "Any negotiated restoration of unified pool access without intermediaries",
     "Courts enjoining access denial WITH WH compliance (would falsify the capture path, though not necessarily the enclosure)",
     "Legacy networks credentialed again on pre-ban terms"
    ],
-   "falsifier": "Unified WH press pool restored on pre-ban terms with all legacy networks credentialed and no replacement-pool structure created, before 2026-11-04. OR federal courts enjoin access denials and the WH complies without restructuring the pool.",
+   "falsifier": "F1: full restoration (all legacy networks credentialed pre-ban terms, no replacement-pool structure) before 2026-11-04 -> claim fails. F2: partial restoration (>=1 legacy network credentialed pre-ban terms before 2026-11-04, regardless of replacement structure) -> structural-construction-before-midterms claim fails; weaker continuation claim graded separately. F3: court-ordered restoration with WH compliance (any form) before 2026-11-04 -> fails. F4: post-9/22 arrangement visibly relaxes/reverses without court order between 2026-11-05 and 2027-06-30 -> persistence component fails. Partition rule: under F1/F3 no rhetorical or analogue confirmer scores; under F2 mechanism-tells score only toward the weaker continuation claim, never the original.",
    "forward_watchlist": [
     "First official designation of a replacement pool (which outlets, what criteria)",
     "'Friendly-inherit' grants: revoked outlets' spots reallocated to friendly media",
@@ -4707,6 +4751,17 @@
   },
   {
    "date": "2026-09-27",
+   "time_et": "21:54",
+   "track": "legitimacy-health",
+   "mget_legs_tested": [
+    "Leg (epistemic capture of health institutions): NYT investigation (Sep 26) reports CDC staffing fell ~30% by May 2026 vs pre-2025 levels; initial layoffs cut ~18%, further hollowed by retirements and resignations. Only 1 of the 11 center directors from March 2025 remains. Interviews with 30+ current/former employees describe degraded outbreak response, vaccine guidance, grants, and state/local technical support. A vaccine-preventable-disease branch lost 7 of 50 staff including the four most experienced measles-lab scientists."
+   ],
+   "verdict": "confirms",
+   "reasoning": "Direct confirmation of the CDC dehumanization/epistemic-capture prediction: institutional capacity stripped under RFK Jr.'s HHS. Structural note: the cuts are targeted, not across-the-board - the departures concentrate in exactly the teams that produce independent scientific judgment (measles lab, vaccine guidance). This is capacity removal with strategic intent: expertise that could credibly contradict the administration is the expertise leaving first. The loss of institutional memory is irreversible on short timescales - scientists do not return. X-ref: cdc-epistemic-capture prediction, dehumanization program, re-2026-09-15-scotus-delegitimization.",
+   "forward_signal": "W1: next measles or other outbreak response - does degraded capacity produce visible failure? W2: does the Administration for a Healthy America proposal formalize, formalizing the permanent rump-CDC?"
+  },
+  {
+   "date": "2026-09-27",
    "time_et": "19:30",
    "track": "legitimacy-media",
    "mget_legs_tested": [
@@ -4719,6 +4774,28 @@
    "verdict": "strains",
    "reasoning": "Strains the enclosure-of-legitimacy leg: a federal court restored banned outlets' access and the TV pool resumed - first visible judicial pushback on WH media control. But the administration is appealing/defending the ban (Xi-visit framing) and floor accountability (Hegseth) was deferred to November, so the decay leg is not confirmed this week either. Mixed week.",
    "forward_signal": "Watch whether ban litigation reaches appellate stage or gets settled; watch Hegseth vote resumption in Nov; 10Y six-percent watch active until Oct 9; UKMTO second-strike watch until Sep 30."
+  },
+  {
+   "date": "2026-09-27",
+   "time_et": "12:37",
+   "track": "legitimacy-media",
+   "mget_legs_tested": [
+    "Leg 2 (enclosure of legitimacy via media control): WH airing third taxpayer-funded TV ad this week (AdImpact), this one on Fox NFL broadcasts (Commanders-Seahawks, Panthers-Browns). Script recycled from Jan 2024 campaign video: campaign logo/text-to-donate stripped, 'Paid for by the US Government' added. Script: 'cast out the communists, Marxists, and fascists... rout the fake news media... liberate America from these villains once and for all' (Trump Veterans Day 2023 speech). Common Cause flags anti-propaganda risk; WH calls it 'educational and unapologetically patriotic.'"
+   ],
+   "verdict": "confirms",
+   "reasoning": "Confirms the enclosure leg and extends it from channel-building to channel-buying. Three structural reads: (1) Campaign-to-state laundering: the ad is a recycled campaign asset with the disclaimer swapped - state funds now pay for the same persuasion the campaign paid for, five weeks before midterms. (2) Prelegitimation in plain sight: casting press + opposition as 'villains' to be 'routed' 'once and for all' in election-cycle advertising is the 2026-midterms-legitimacy-catalyst-node fuel - loss in November becomes theft by design. Direct x-ref sacralization-legislative-halls and the dehumanization program: the ad is the most concentrated enemy-casting specimen yet captured, run at scale on taxpayer money. (3) The asymmetry completes: WH fights the press pool ban in court (DOJ, Xi-visit deadline) while simultaneously buying commercial reach on Fox NFL games - the banned outlets' airtime can be purchased, only their access cannot. Prior ad cost >$362K (CNBC). Bipartisan scrutiny noted, no enforcement action yet. X-ref: 2026-09-21-trump-tv-direct-channel (state broadcast infrastructure), 2026-09-18-wh-media-ban-cover.",
+   "forward_signal": "W1: fourth ad / rhetoric escalation (does 'final battle' or enemy-cast-out language intensify through Oct 20 pre-midterm window?). W2: enforcement (GAO finding, Common Cause/congressional action on anti-propaganda riders, or any network declining government ad buys). W3: prelegitimation tell (does 'villains/final battle' rhetoric recur explicitly tied to midterm contesting, or appear in WH official channels - TRUMP TV - vs paid spots only?)."
+  },
+  {
+   "date": "2026-09-27",
+   "time_et": "23:09",
+   "track": "domestic-repression",
+   "mget_legs_tested": [
+    "Leg (normalization of military role in domestic security): Pentagon stood up a Homeland Defense Board (Federal Register Sep 11) - first DoD advisory board focused on homeland security, explicitly created to advise on Title 10/Title 32 domestic troop deployments and to 'bridge the gap' between the military and DHS."
+   ],
+   "verdict": "confirms",
+   "reasoning": "Two structural anomalies worth flagging: (1) The advisory structure is self-advisory - Hegseth chairs the board that advises Hegseth. The establishing documents claim the need for 'consensus-based, independent, and external peer review,' but the membership is the SecWar himself, his assistant secretaries, and one junior officer plus one civilian per branch 'and such other members as the SecWar may appoint.' There is no external check anywhere in the structure - this is the advisory form stripped of its advisory function. (2) Timing: created weeks after large-scale National Guard deployments to US cities and the border, and after drug interdiction missions expanded beyond Coast Guard scope. The board is the institutional scaffolding that makes those deployments reviewable only by the people who ordered them. Context: this board was created in the same purge cycle that killed DACOWITS and the sexual-misconduct prevention board - advisory bodies were eliminated when they could constrain, and created when they can legitimize. X-ref: detachment-201 observation, domestic-enforcement-groundwork prediction.",
+   "forward_signal": "W1: board composition announcements - do outside voices (state AGs, mayors, civil-liberties representation) ever appear? W2: first board recommendations - do they endorse expanding domestic troop missions?"
   },
   {
    "date": "2026-09-26",
@@ -4734,6 +4811,317 @@
    "verdict": "confirms",
    "reasoning": "Sweep findings: (1) CLUSTER [23] China, US agree to AI dialogue + tariff cuts on $30B in goods DURING XI VISIT - strongest single confirmation yet that the eurasia-settlement lane is functioning; tariff relief + institutionalized AI channel = settlement architecture, not truce theater. (2) CLUSTER [9] China pushes back against US on Iran and Cuba at UN - settlement coexists with public friction; expected, does not break the lane. (3) CLUSTER [16] Trump rejects Iranian proposal to open Hormuz - wire-level echo of tonight's Truth + gaggle; offramp-closed now consensus-reported, no longer single-source. (4) CLUSTER [20] CNN left off Air Force One trip - media restriction escalation continuing 9/18 WH-ban pattern at event level. (5) CLUSTER [16] OpenAI model misbehavior disclosure + training pause - AI governance signal adjacent to the AI-dialogue cluster. (6) Medicaid work requirements kicking in, states taking tougher stance - consolidation material base. (7) TOPIC PRESSURE: legitimacy_delegitimization vol 74, velocity -14.8/day = cooling; enclosure/vanguard/opacity/rally pinned at saturation 100 with zero velocity - topic buckets are instrument-bound at ceiling, need recalibration. (8) SOURCE HEALTH: AP direct wire 403 (AP-via-GN still 100); MSNBC 16, NYP 21. Monitor AP 403: connector issue vs deliberate block.",
    "forward_signal": "Xi-visit outcomes as they materialize (tariff schedule, AI-channel mechanics) = next confirmation window for settlement leg. Legitimacy-delegitimization cooling while settlement consolidates matches pivot-thesis shape. OPEN ITEMS: topic-bucket recalibration; AP 403 investigation."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "12:10",
+   "track": "institutional-capture/personnel-churn",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Andrew Bailey (ex-Missouri AG, installed Sept 2025 in the unusual co-deputy director role alongside Bongino) announced resignation; confirmed independently by Reuters, NYT, NBC, MS NOW (Dilanian/Leonnig, 3 sources). Public message: family reasons. MS NOW: he was overseeing election-related matters; frustrated by demotion of two senior counterterrorism agents in the Washington Field Office who handled the investigation into harassing calls targeting Stephen Miller's wife. Two structural signals: (1) the co-deputy experiment continues hollowing - second departure from the dual-deputy arrangement in ~1 year; (2) election-oversight portfolio vacant six weeks before midterms - who inherits it is the actionable question. The Katie Miller probe demotion suggests loyalty-protection dynamics inside the Field Office.",
+   "forward_signal": "Watch who inherits the election-related portfolio; watch whether further counterterror Field Office churn follows; MeidasTouch amplified within 8 minutes - opposition-network monitoring of FBI internals is fast."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "19:21",
+   "track": "mget-pattern-confirmation",
+   "mget_legs_tested": [
+    "2026-09-28-moe-gas-sharia-triad-post",
+    "2026-09-28-rsbn-grift-economy-observation",
+    "2026-09-28-right-election-narrative-triad"
+   ],
+   "verdict": "confirms",
+   "reasoning": "SAM THESIS: 'They've lost control... all they have are the cheapest options available.' This is the cheapest-tools-at-end-of-cycle hypothesis - when narrative authority collapses (broadcaster legitimacy gone, persuasion window closed, elite defection public as with Rove), the machine falls back on the lowest-cost, lowest-sophistication instruments in its kit: engagement-farm memes (Wall Street Apes), fear-lane ad commerce (RSBN's five-lane taxonomy), celebrity relay amplification (Moe), morale management (stop-blackpilling), and prelegitimation (fake-polls). The MGET pattern predicts this: as control degrades through the crisis phase, narrative quality degrades in step - the machine spends down accumulated authority rather than rebuilding it, because rebuilding is expensive and slow and the calendar is short. Corroboration today: same-day oil-to-meme pipeline (cheapest instrument at maximum velocity), grift economy substituting for institutional ad budgets, RSBN running repeat clip rotations instead of original journalism. Counter-consideration: cheap tools are not weak tools - they are high-velocity and low-attribution, which is exactly what you want when the story is losing on the merits. The degradation is in authority, not necessarily in effect.",
+   "forward_signal": "Watch for: (1) further quality degradation in the machine's outputs as midterms near - recycled clips, increasingly apocalyptic frames, more coordination with engagement farms; (2) any attempt to REBUILD authority (a new messenger class, a 'serious' outlet pivot) as the tell that the cheap-tools phase is ending; (3) elite defection rate - Rove was today; measure how many more establishment figures go on-record before Nov 3."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "14:09",
+   "track": "media-forensics",
+   "mget_legs_tested": [
+    "rsbn-machine-case-study",
+    "epistemic-register-signature"
+   ],
+   "verdict": "confirms",
+   "reasoning": "Hypothesis: RSBN's propaganda 'feel' = missing attribution machinery. Method: per-1000-word counts on article bodies (crude middle-50% extraction). ATTR = attribution/hedging markers (according to, reportedly, sources said, officials said, spokes( person), could not be reached, declined to comment, said, documents show, analysis, data, per the). ASSERT = unhedged assertive/emotive markers (will, won't, never, always, everyone, nobody, clearly, obviously, the truth, fake, lying, corrupt, radical, disaster, destroy, massive, huge, !!). RESULTS - RSBN (n=9, ~363w): attr 5.54, assert 8.29. FOX (n=9, ~1401w): attr 4.25, assert 7.78. CNN (n=10, ~1601w): attr 8.15, assert 4.04. Finding: RSBN and Fox are statistically near-identical on the WRITTEN layer. CNN runs ~2x attribution and ~half the assertion markers. So the sensed offness about RSBN is NOT separable from Fox in print - it points to the broadcast layer (anchor voice, direct address, chyron framing). Live Rumble stream has no caption track; YouTube blocks automated access; transcript count needs manual capture.",
+   "forward_signal": "Next step: owner pastes YouTube auto-transcript of the 09-28 Oval Office stream; run same counts on spoken language per 1,000 words plus direct-address rate (you/we/this is why) and chyron audit. Caveats: small n, ad hoc marker lists, RSBN short articles may inflate ratios via sidebar bleed, single-day sample in war+midterm cycle."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "12:28",
+   "track": "narrative-leg-1-lesser-evil",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Matt Gaetz replies to Robbie G. Smither (former FL GOP political director, announced first-ever Dem vote for David Jolly FL-27): 'Bro we need your vote. I hate the war too. But the Democrats want to trans your kids.' Structure: concede the grievance (war) to hold the voter, then deploy leg-1 lesser-evil + child-protection fear bait as the tiebreaker. This is the triad's leg 1 executed by an official messenger against a specific high-profile defector - exactly the absorption triad's predicted function (absorb disappointment with incumbents by redirecting disgust outward). Note the concession-then-fear sequencing: war acknowledged only as a premise for the trans frame, not answered.",
+   "forward_signal": "Triad classification: leg 1. Watch Smither replies ratio - high-profile defector posts may become standing targets for this exact template. Also note David Jolly race (FL-27) as a test case where the triad is being run against a real ex-GOP candidate."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "13:05",
+   "track": "narrative-leg-1-lesser-evil",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Meme: gas station price board (Chevron Food Mart, $7.61-7.69 range visible) overlaid 'If You Think Voting For Democrats Will Lower Gas Prices / Just Look At Gas Prices In California.' First live artifact of the diesel-wedge collusion frame logged four minutes earlier - same lane, different payload: instead of 'Democrats collude with oil companies,' this variant runs 'Democrat-run states = high prices,' converting the wedge into a partisan geography argument. Structure: single-image proof (one station sign), no wholesale/retail analysis, no federal policy variable. CA's premium is driven largely by state taxes, cap-and-trade, and refinery attrition - all real, all state-level, none of it requiring collusion. The frame needs the wedge visible to work; note the price board shown IS the wedge itself. Captured within minutes of the pattern flag - either algorithmic acceleration or coincidence; tag both.",
+   "forward_signal": "Frame is running in at least two variants (federal collusion / state geography). Watch for: (1) third variant appearing (federal+state combo); (2) pairing with turnout-assignment content near midterms (upgrade trigger); (3) named-enemy escalation (windfall-profits investigation as counter-frame). Classification under right-election triad: serves leg 1 (lesser-evil) via pocketbook fear. Tag to diesel-wedge object and float-retract pattern."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "13:00",
+   "track": "iran-war/float-retract-pattern",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "PATTERN REGISTRATION (owner observation): constant flip-flopping (war on/off, negotiation on/off) is itself the mechanism, not noise. Each float harvests the upside headline (peace progress, price relief - WTI -3.6% on the 09-28 float, third iteration in five days) while retraction lands slower and gets less coverage: asymmetric coverage of symmetric events. Floats and retractions stay logged as discrete entries (each accurate per-event); this object holds the aggregate so iterations compose into visible structure. Never treat any single float/retract as a position. Precedent: sanctions easing since March (NYT/WaPo/NBC) ran the same ambiguity logic - conditionable, never confirmed as policy shift.",
+   "forward_signal": "Standing treatment: every Iran float/retract iteration tagged to this object. Pattern metrics: (1) float-to-retract interval; (2) price retention after retraction (snap-back = market learned it's theater; holds = supply expectation structurally changed); (3) iteration acceleration as midterms approach - price-containment pressure rises into 11-03."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "19:20",
+   "track": "midterms/narrative-absorption",
+   "mget_legs_tested": [
+    "2026-09-28-right-election-narrative-triad",
+    "2026-09-28-gas-prices-california-democrat-state-meme",
+    "2026-09-28-diesel-wedge-colusion-frame"
+   ],
+   "verdict": "confirms",
+   "reasoning": "Wall Street Apes (1.7M-follower engagement-farm, blue-check) post: 'Imagine being so upset by a temporary gas price increase that you're willing to vote Democrat during midterms for an open border and to live under Sharia Law.' Amplified by T.J. Moe (former NFL WR, right-media personality, 150K+): 'Makes no sense.' Engagement: 1K/487/150 on the amplification; 311/216/35 on the underlying tweet. This is the triad compressed into three sentences: (1) gas-price grievance acknowledged ('temporary' - pre-absorbing the 10y-fuel-cost structural finding), (2) vote-switch derided as self-destructive (lesser-evil leg inverted: Dems are not 'worse policy' but civilizational annihilation - Sharia Law), (3) the Chevron-conjunction persuasion trick: listing 'open border' + 'Sharia Law' as a single package implies both are current or imminent Democratic policy. Sharia Law framing is the civilization-collapse register, upshifting from policy disagreement to existential threat. Connection to today's oil lane: the gas-price wedge frame (California meme, diesel-wedge collusion) is being absorbed into the general election narrative within hours of the crude dip - the pipeline from price movement to meme is now same-day.",
+   "forward_signal": "Watch: (1) replication rate of the 'gas price -> Sharia' conjunction across the creator network (if it becomes a template, that indicates coordinated propagation, not organic virality); (2) whether Wall Street Apes posts correlate with the float-retract cycle timing (they posted the tariff item earlier today too); (3) comment-section sentiment - top reply 'If you pre... makes sense' suggests the frame is not landing universally even in sympathetic audiences."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "14:49",
+   "track": "geopolitics-iran",
+   "mget_legs_tested": [
+    "trump-iran-sanctions-ease-offramp",
+    "iran-float-retract-pattern",
+    "double-choke-iran-lane"
+   ],
+   "verdict": "strains",
+   "reasoning": "Specimen: Task & Purpose (Austin Campbell), Sep 28 1:51 PM EDT - USS Theodore Roosevelt deploys to CENTCOM as the FIFTH carrier committed to the Iran war. Within ~3 hours of the sanctions-ease float. Two readings, not mutually exclusive: (1) escalation proceeds despite the diplomatic float - five-carrier massing is plan B pre-positioned regardless of talks, matching float-retract where force posture is the real position and the float is the offer; (2) the float is leverage-building - de-escalation offer made credible and deniable by visible force surge. Companion piece same outlet: 35+ sailors and Marines wounded this month supporting Iran operations - the war is absorbing casualties, contradicting any low-intensity characterization. 'Lessons from the Abraham Lincoln extended deployment' signals planning for sustainment, not surge-and-exit. Verdict 'strains' the offramp thesis: the owner's instinct is right, this does not sound like de-escalation on the force lane.",
+   "forward_signal": "Watch: (a) TR relief pattern vs. joining strike ops; (b) whether the sanctions float completes retract within 72-96h; (c) casualty reporting cadence - if wounded counts keep surfacing while floats run, two-track read strengthens; (d) oil tape reaction to carrier news vs. sanctions float - which lane the market prices. If float retracts while fifth carrier is on station, upgrade double-choke Iran lane confidence."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "18:30",
+   "track": "midterms/elite-defection-texas-senate",
+   "mget_legs_tested": [
+    "2026-midterms-legitimacy-catalyst-node",
+    "conservative-space-economic-defection"
+   ],
+   "verdict": "confirms",
+   "reasoning": "Karl Rove at Texas Tribune Festival (9/26, reported 9/28 SA Current): 'My party is being infiltrated by people like Bo French... Nick Fuentes goes to Dallas and meets with a bunch of Republican leaders. This guy is a Nazi.' Also: Cruz privately telling Rove 'We're losing,' Paxton emailing 'I'm losing, I need your help,' Rove pledging to vote for a Democrat (Jon Rosenthal) for Railroad Commissioner over Bo French, whom he called a bigot (after WSJ op-ed against French's anti-Indian student post). This is the architect of the modern GOP - the Bush-era operative who built the machine - naming Fuentes-aligned elements as Nazis ON THE RECORD, plus private panic admissions from Cruz and Paxton. Three data points that matter: (1) elite-establishment defection is now explicit and quotable, not just hinted; (2) internal polling acknowledgment ('even the Republicans are admitting they're behind') corroborates NBC/NYT aggregate Dem momentum from the afternoon wire; (3) the Fuentes-Dallas-meeting detail suggests the extremist wing is organizing openly inside party structures, not at the fringe.",
+   "forward_signal": "Watch: (1) whether Rove's on-record 'Nazis' language gets absorbed/attacked by the MAGA lane (Gaetz-style lesser-evil response expected) or ignites further establishment defection; (2) TX Senate race trajectory - Paxton's collapse would be a major legitmacy-catalyst signal; (3) any Trump counter-move against Rove/Cornyn faction; (4) whether Fuentes-Dallas meeting gets corroborated or denied. Talarico surge (per SA Current 9/25) tracks with aggregate; TX as bellwether for incumbent-collapse lane."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "14:07",
+   "track": "grift-media/epistemic-register",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "User's 'something is off but can't peg it' observation. Readability ruled out (see 2026-09-28-rsbn-readability-measurement). The signal is epistemic, not lexical: (1) attribution stripping - claims arrive without sources ('they say', 'everyone knows', 'folks are saying'), removing verification handles; (2) hedging removal - no 'reportedly', 'according to', 'unconfirmed'; uncertainty markers are the grammar of credibility and their absence is the tell; (3) certainty delivery - declarative prediction stated as accomplished fact, so the host never risks being wrong because nothing was ever a claim; (4) conclusion-leading - rhetorical questions with only one available answer ('Do you really believe...?') let the viewer arrive at the conclusion and own it, which is more adhesive than being told; (5) in-group pronoun binding - 'we/they' framing in every segment converts news into tribal positioning. Together these produce a felt sense of 'this is propaganda' even when individual sentences are defensible: the viewer's ear detects missing attribution machinery, not wrong facts.",
+   "forward_signal": "Capture a 5-minute host transcript and count attribution markers per 100 sentences vs a CNN/Reuters transcript. If RSBN shows near-zero hedges/attribution while legacy outlets run 1-3 per 100, the felt-sense observation is quantified and becomes a repeatable grift-media metric."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "13:57",
+   "track": "grift-media/monetization-fusion",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Fourth ad specimen in under an hour of RSBN coverage, sequence: MyPillow (foundational grift brand), Navy SEAL energy drink interview (guest-as-storefront: retired Navy SEAL selling energy drinks on a news program), 1st Hour Trauma Kit (fear-referencing commerce), now Tax Network USA. TNUSA ad is the escalation: 'Protect Yourself From the IRS - Settle Your Back Taxes TODAY!' displayed simultaneously with chyron carrying 'TRUMP ADMIN FILES APPEAL TO SUPREME COURT TO ALLOW FAST...' (deportation/enforcement item) - the ad monetizes fear of the very federal agency the current administration controls, i.e., the network sells protection from an executive branch its political faction runs. Chyron also carries 'POTENTIAL ACTION AROUND CUBA' - another theater-lane item. Fear taxonomy in one hour: war (Iran), surveillance/enforcement (SCOTUS appeal), financial (IRS), physical (trauma kit), health (energy drinks). Ad mix IS the fear index predicted at 13:53 - every ad references a distinct fear category. Ad-to-content ratio per owner: 'another ad... so far since logging in' - 4 ad specimens in ~1hr, sustaining grift-economy thesis.",
+   "forward_signal": "The fear taxonomy is the finding: each ad maps to a distinct fear lane the network itself cultivates. Watch: (1) whether ad category mix tracks war-lane temperature (more war coverage = more preparedness/IRA/fear-commerce share); (2) whether TNUSA-style 'protection from government' ads increase as admin policy expands enforcement (paradox: selling protection from your own faction's government requires the audience to NOT credit the administration with controlling it, or to credit a deep-state framing); (3) ad-load density per hour as measurable metric for the template replication check vs RAV/Lindell TV."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "14:09",
+   "track": "grift-media/monetization-fusion",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Fifth ad specimen in the 13:54-14:09 hour: Kalshi prediction-market spot running over live coverage of a Trump Oval Office announcement, with a 'TRADE LIVE NOW - PREDICT & PROFIT' banner and a displayed 2028 Republican presidential nominee board (Vance 46%, Rubio 18%, DeSantis 4.3%). Monetization has fused to a third layer: beyond fear products (trauma kit, tax defense) and consumer identity (MyPillow, energy drinks), the election outcome itself is packaged as a bet. The displayed board pre-legitimates the 2028 VP-favorite lane mid-midterm-cycle. Chat in the same window runs the full narrative triad (NO VOTE IS A VOTE FOR THE RIG / IGNORE EVERY POLL YOU SEE) while the betting panel prices the nominee race.",
+   "forward_signal": "Track whether Kalshi/prediction-market ad spend concentrates on grift-media election coverage through the midterms. Betting markets monetize distrust of polls (leg 3, 'polls are wrong') by presenting themselves as the REAL odds. Watch for hosts citing Kalshi odds as authority on election chances, which would complete the loop: delegitimize polls, replace them with a gambling product."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "13:58",
+   "track": "grift-media/language-design",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Owner observation: RSBN language is written for lower grade-level understanding. Consistent with readability research on propaganda and persuasion (plain-language targeting, low Flesch-Kincaid tolerance). Design logic: (1) low lexical density increases surface accessibility while reducing premises available for scrutiny - simple sentences carry unsupported claims as if self-evident; (2) short declarative rhythm (BE PREPARED. SAVE A LIFE.) removes hedges and qualifiers, producing false certainty; (3) reduction of vocabulary reduces audience ability to articulate counterarguments - language shapes the argument space; (4) targeting is not stupidity, it is throughput - maximum retention across audience education levels. Note the chyron grammar in specimens: no qualifiers, present-tense imperative framing. In chat specimens: audience language mirrors the network register (short, absolute, all-caps), suggesting register convergence upward from production to reception.",
+   "forward_signal": "Quantifiable check: run Flesch-Kincaid on RSBN chyron/transcript samples vs Reuters/AP for comparison (tools available in VM - textstat if installed or manual computation). If RSBN runs 3-4 grades below wire services, the finding hardens from observation to metric. Also sample RAV/Lindell TV to test template consistency."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "14:05",
+   "track": "grift-media/language-design",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Flesch-Kincaid measured on scraped article bodies (per-article medians): RSBN 12.4 (n=8, range 10.2-14.6), Fox 13.2 (n=8), CNN 10.9 (n=5). Written RSBN prose is NOT lower-grade than Fox; CNN reads easiest. OCR'd chyron/ad fragments score FK 9.3, reading-ease 59 vs ~38 for all article prose. The user's perception is correct but located in the broadcast register: chyrons and ad copy run ~4 grades below any outlet's written prose. Mechanism: short imperative sentences ('BE PREPARED. SAVE A LIFE.') carry unsupported claims as self-evident, leave no room for hedges or because-clauses, and false certainty forces snap assent. Chat text FK unreliable (no punctuation inflates it).",
+   "forward_signal": "Track chyron copy as the propaganda-bearing layer, not article text. Any future readability claim on grift media should score chyrons, ad copy, and spoken register separately from article prose. Sample sizes small; re-run after collecting more specimens."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "13:56",
+   "track": "grift-media/monetization-fusion",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "RSBN during live Oval Office pre-announcement coverage: dual trauma-kit ad placements (persistent corner box + full chyron-band ad) - '1ST HOUR TRAUMA KIT, BE PREPARED. SAVE A LIFE., THE FIRST HOUR IS CRITICAL.' Monetization fused to hard-news coverage per the absorption watch trigger set at 13:53. Product framing is doomsday-adjacent (be prepared, save a life, first hour critical) - fear-referencing commerce that harmonizes with the war lane the network is covering. Chyron simultaneously carries the Iran float item: 'TRUMP POSTS TRUMP STRAIT IMAGE AS IRAN OFFERS PLAN TO REOPEN STRAIT OF HORMUZ' - the float-retract cycle is being carried as personalized propaganda (Trump Strait image) while the ad lane sells survival gear to the audience watching war coverage. Full loop: war coverage -> fear -> preparedness product -> same audience also absorbing election triad. Owner note: 'more ads... little substance' - announcement is pre-coverage filler; substance per owner is minimal, consistent with chat skepticism ('every time... major announcement... turns out to be nothing').",
+   "forward_signal": "Watch: (1) whether trauma-kit-style fear commerce scales with war-lane temperature (ad-product mix as a fear index); (2) whether the 2PM announcement delivers substance or pure price-relief theater (ties to float-retract pattern); (3) 'Trump Strait' image - personalization of geography as propaganda artifact, may become canonized meme; (4) gold/energy-product pushes synchronized with oil lane."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "12:15",
+   "track": "electoral-stop-loss/morale-management",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Conservative influencer Gentry Gevers (co-founder Breakaway USA, TPUSA-adjacent per his own podcast coverage; influencer-marketing professional) posts 'STOP BLACKPILLING.' with a founder-significance frame: Founders/Lincoln/WWII/2024 - 'doomerism would have handed every victory away.' Function: morale enforcement against despair-driven disengagement. Read together with same-day artifacts: (1) Trump/Heritage fake-polls pre-positioning (demobilize the opposition), (2) 'stop loss' messaging emergent across right-media per owner observation. This is the mobilization counterpart - keep the base convinced every cycle is existential so turnout doesn't crater when real polling disappoints.",
+   "forward_signal": "Watch whether stop-blackpilling language replicates across TPUSA network accounts (Kirk canonization gave the network a martyr template); watch whether it pairs with turnout-assignment content (chase, ballot-curing) closer to Election Day. Frequency metric: 3+ messenger instances in 7 days = frame consolidating (fake-polls watch trigger applies)."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "16:29",
+   "track": "domestic-repression/dehumanization-as-policy",
+   "mget_legs_tested": [
+    "mace-trans-existence-denial-moe-amplification",
+    "criminalization-of-existence"
+   ],
+   "verdict": "confirms",
+   "reasoning": "ED formally rescinded the Biden-era Title IX interpretation extending sex-discrimination protections to sexual orientation and gender identity, effective for students nationwide (The Hill, WaPo, UPI, Bloomberg Gov - all 9/28; McMahon statement: rules now 'faithfully reflect court orders and Congressional intent'). This is dehumanization moving from rhetoric layer to codified layer: trans existence loses its administrative recognition in schools. Fits the 09-26 Mace pattern (existence-denial amplified through messenger network) as its policy realization, and the criminalization-of-existence substack thesis as its codification instance. Also notable: the Mcmahon statement is pure legibility-theater - 'reducing confusion for parents' - erasure framed as simplification. Right-media framing (RedState: 'big win for women's sports... going bye-bye') confirms the trivialization register.",
+   "forward_signal": "Watch: (1) state-level compliance/copycat expansions; (2) litigation seeking emergency stays - the court-orders-as-speed-bumps pattern; (3) whether enforcement of the rescission produces visible school-level incidents before midterms (mobilization salience cuts both ways - unlike inflation, anti-trans policy mobilizes the opposing base); (4) next codified-layer domino in the dehumanization track (healthcare, documents, ID)."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "12:00",
+   "track": "legitimacy-media",
+   "mget_legs_tested": [
+    "2026-midterms-legitimacy-catalyst-node: SUPPORTS - pre-count fraud narrative is being seeded six weeks before election day; Branch A pre-positioning element (pre-built fraud narrative) now has a dated on-record artifact",
+    "dehumanization-velocity-turning-signal: CONSISTENT - 'fake polls' framing continues the epistemic pre-delegitimation sequence (courts, media, now pollsters) ahead of the count",
+    "electoral-stop-loss-iran-war: CONSISTENT - turnout frame ('pretend I am on the ballot') attempts to convert an off-cycle referendum into a personal mandate; same personalization lane as Trump TV direct channel"
+   ],
+   "verdict": "confirms",
+   "reasoning": "Trump Truth Social post, 2026-09-28 6:50 AM ET (screenshot archived), praising Heritage Foundation/Heritage Action president Kevin Roberts' Fox appearance 'on the topic of Fake Polls and how well the Republicans are going to do in the upcoming Midterms.' Key components: (1) EPISTEMIC PRE-DELEGITIMATION - the specific claim being seeded is that polls showing GOP weakness are fake; this is the pre-built explanation for a bad result, deployed BEFORE results exist. Heritage (policy infrastructure) runs the claim on legacy media; Trump (personal channel) amplifies it on Truth Social - division of labor between think tank and personal channel. (2) PERSONALIZATION - 'pretend I am on the ballot' converts a constitutional midterm into a personal referendum, raising the personal stakes of any loss and pre-framing any loss as fraud rather than rejection. (3) TURNOUT BY FEAR - 'Don't let them open your Borders, and allow crime to again flourish' - standard closure-of-the-offramp affect lane. SOURCE QUALITY: primary source (direct screenshot of @realDonaldTrump post, 1.47k ReTruths/5.51k likes). Roberts' Fox segment is corroborating infrastructure, not independently verified here - flag: locate the Fox clip for the specimen file if the fake-polls claim recurs. CONTEXT: lands the same morning the UK airbase Iran-link story dominates the wire - war and election framing running on parallel tracks into the Nov 3 window.",
+   "forward_signal": "Frequency tell: count 'fake polls' appearances across Heritage/Fox/Truth Social over the next two weeks. Escalation tell: if the frame shifts from 'fake polls' (pre-election) to 'fake count' (post-election) using the same vocabulary and messengers, the Branch A pre-built-fraud-narrative element of the midterms catalyst card has completed its pre-positioning phase and the card should be reviewed for a confidence move."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "13:00",
+   "track": "iran-war/offramp-reopened",
+   "mget_legs_tested": [],
+   "verdict": "confirms",
+   "reasoning": "Al Jazeera (via FXStreet): Trump prepared to ease Iran sanctions and unfreeze assets in exchange for progress on nuclear talks. WTI -3.6% in 30 min on the headline (NFT WORLD screenshot, 90.835). This REVERSES the 2026-09-27 read ('Trump rejected Iran's Hormuz proposal, offramp closed on the record'). Two interpretations: (a) genuine pivot - domestic price pressure (90s WTI, midterms in 6 weeks) forcing settlement; (b) negotiating theater - float the concession, watch the tape, retract if leverage improves. Note prior precedent: administration eased oil sanctions repeatedly since March to contain prices (NYT/WaPo/NBC), so this is escalation of an existing pattern, not a new policy. Source hygiene: NFT WORLD is promo-funnel aggregation; substance independently confirmed via AJ.",
+   "forward_signal": "Watch: (1) official confirmation or denial within 24-48h - WH readout, not just 'prepared to'; (2) whether sanctions-ease is conditioned (nuclear verification) or unilateral; (3) oil tape behavior on retraction - if price snaps back, market treats it as theater; (4) impact on Eurasia hemisphere-pivot card (Iran track is a leg); (5) midterms optics - gas prices are the mechanism."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "00:20",
+   "track": "iran-war",
+   "mget_legs_tested": [
+    "Leg (US-China detente via transactional diplomacy; Taiwan as bargaining chip): AP/NYT/Bloomberg (Sep 27-28) - US Ambassador to China David Perdue said in a Sunday TV interview that during Xi Jinping's recent state visit, Trump asked Xi if China would like to buy American weapons. Perdue framed it as characteristic deal-making, and used the moment to justify the pending US arms sale to Taiwan - downplaying it to Xi as just one of many sales Washington makes worldwide. Context: comes after a Taiwanese minister spoke of the 'severe' military threat posed by Beijing."
+   ],
+   "verdict": "neutral",
+   "reasoning": "Two readings coexist, keep both live. (1) De-escalation reading: offering arms sales to a strategic rival is so transactional it signals goodwill - the deal-maker's handshake, continuing the summit's cooperative tone (pandas to Atlanta, trade truce). (2) Strategic-incoherence reading: simultaneously selling arms to Taiwan and offering to arm Beijing is a dual-track that treats both sides of the Taiwan strait as customers; the Taiwanese minister's 'severe threat' remarks in the same cycle sharpen the contradiction. Perdue's defensive framing suggests the White House anticipated the backlash. Sourcing is solid (AP, NYT, Bloomberg's Josh Wingrove); intent is genuinely ambiguous.",
+   "forward_signal": "W1: does the pending Taiwan arms package actually clear, or get quietly reduced to appease Beijing? W2: Chinese state media reaction - do they treat the offer as sincere or as theater? W3: Taiwan's response to learning its security patron pitched the same weapons to its adversary."
+  },
+  {
+   "date": "2026-09-28",
+   "time_et": "10:00",
+   "track": "macro-fragility",
+   "mget_legs_tested": [
+    "eurasia-settlement-hemisphere-pivot-domestic-consolidation: SUPPORTS - soybean exclusion is a retained coercion card inside a consummated deal; settlement and leverage run as one bargain, not two policies",
+    "de-dollarization-reserve-rotation: CONSISTENT - deal consummated while China keeps its largest farm-belt pressure channel; asymmetric dependency persists across the settlement",
+    "electoral-stop-loss-iran-war: COMPLICATES - a visible 'deal' gives the administration a peace dividend to campaign on while the Hormuz offramp stays closed; may relieve price-instrument pressure temporarily"
+   ],
+   "verdict": "confirms",
+   "reasoning": "US and China published official reciprocal tariff-cut lists (~$30B per side; Reuters cites up to $60B in goods: agriculture, household items). China's 1,600+ item list EXCLUDES soybeans - the $12.8B/yr (2024) farm-export lane, ~43% of the relief package by value. Exclusion retains China's most politically potent coercion channel over the US farm belt inside an otherwise-consummated deal. SOURCE QUALITY: Reuters + AP wire (primary-grade); a 13-minute-old NFT WORLD retail post carrying the soybean-exclusion frame with pre-computed 43% math is a velocity marker for how fast the frame reaches retail-finance channels, but NOT treated as a source (crypto promo funnel). Parallel settlement-lane signals same cycle: Trump asked Xi about arms purchases (AP); ByteDance/Alibaba weighing Nvidia chip buys (The Information).",
+   "forward_signal": "Watch the next negotiation round for soybeans re-entering the list as a priced concession rather than a gesture. Second tell: whether farm-state GOP pressure surfaces publicly before midterms - if the exclusion holds through harvest season, the retained-leverage reading hardens; if soybeans quietly reappear within weeks, read as negotiation-theater optics."
+  },
+  {
+   "date": "2026-09-30",
+   "time_et": "13:15",
+   "track": "political-theory",
+   "mget_legs_tested": [
+    "scapegoat-attribution-framing",
+    "energy-price-narrative",
+    "ai-as-political-blame-magnet"
+   ],
+   "verdict": "confirms",
+   "reasoning": "TheBlaze (verified FB page) posts 'Could AI Be Keeping Gas Prices High Even as Oil Prices Fall?' over a $5.09 gas sign. This is an early-cycle attribution frame being seeded: the real price story is (a) Iran war strait closure driving crude up and (b) data-center demand driving structural energy cost increases (IEA: AI-focused DC electricity +50% in 2025 alone; projected 945 TWh by 2030). The frame does real analytical work - it connects AI infrastructure cost to consumer prices - but in right-wing media hands it is being deployed to shift blame away from the administration's war-driven energy shock toward 'AI companies' as a diffuse culprit. Scapegoat framing is cheaper than policy response: blame a sector, not a strategy.",
+   "forward_signal": "Watch whether this frame gets picked up by admin-friendly accounts or administration officials themselves (if the WH or allies adopt 'AI is raising your gas prices' as a line, the scapegoat has been anointed). Watch for counter-frame from left/AI-safety side (AI energy cost as argument against data-center buildout). Watch for convergence with H1B/data-center local opposition movements."
+  },
+  {
+   "date": "2026-09-30",
+   "time_et": "12:47",
+   "track": "iran-war",
+   "mget_legs_tested": [
+    "attribution-ambiguity",
+    "escalation-ladder",
+    "normalization-degradation",
+    "strike-window-premidterm"
+   ],
+   "verdict": "neutral",
+   "reasoning": "Event: Flydubai Dubai-Tel Aviv (~180 pax, many Israeli) squawked 7700 then 7500 (hijack code) en route; co-pilot stabbed captain, appears to have attempted to crash the aircraft; off-duty Israeli pilots among passengers overpowered him; emergency landing at Tabuk, Saudi Arabia; Saudi authorities holding the suspect; Shin Bet/Mossad investigating. Netanyahu: pilot tried to crash plane; Katz: 'attempted jihadist terror attack.' VERIFIED across Reuters/Guardian/CNN/Haaretz/Times of Israel.\n\nWire read (six watch lanes light up simultaneously):\n1. Attribution ambiguity is the core structural feature. Flydubai's own line: motive unknown, formal investigation, no premature speculation. Iranian state (Fars) immediately framed it as Israeli false-flag bait; Israeli PMO aide linked it to Iran and called for doctrine to 'go up a level.' Both attribution narratives are running BEFORE any evidentiary record exists - the aviation-coupling analogy note's attribution-ambiguity pattern, live.\n2. Normalization structural damage: the attack runs Dubai->Tel Aviv, i.e. it strikes the Abraham-Accords corridor itself. Watch for Gulf carriers' route suspensions and whether the corridor (emblem of 2020 normalization) gets priced as unworkable. Right-wing US framing already pulling Saudi toward accords in the same cycle.\n3. Escalation-ladder risk: Israeli officials amplifying 'Iran link' with zero public evidence; US strike-before-midterms window already flagged by Trump (Fox interview, declining to rule out pre-midterm strikes). This incident is a ready-made casus belli regardless of investigation outcome - the strike watch (2026-09-28-iran-strikes-after-midterms) may trigger EARLY, pre-midterm, riding this flashpoint.\n4. EASA advisory convergence: separate same-day advisory on Saudi airspace citing Houthi attacks and 'significant kinetic military activity affecting Saudi airspace' - the air-corridor chokepoint and the Hormuz maritime chokepoint are degrading together.\n5. Domestic resonance: 'shades of 9/11' cycles already running on US right-wing media - watch for the incident being used to prime the election-infra memo narrative (foreign threat justifying domestic enforcement).",
+   "forward_signal": "Observables: (a) Saudi interrogation results / co-pilot identity - the single fact that resolves attribution; (b) whether Israel demands access to the suspect; (c) EASA/carrier route suspensions on the Dubai-Tel Aviv corridor; (d) whether Trump admin references the incident within 48h in strike-justification language; (e) whether Iranian 'false flag' framing or Israeli 'jihadist attack' framing wins the first-week frame war. Confidence: incident itself HIGH (multi-source); attribution LOW by design - do not score either narrative until evidence surfaces."
+  },
+  {
+   "date": "2026-09-30",
+   "time_et": "13:55",
+   "track": "midterms",
+   "mget_legs_tested": [
+    "legitimacy-catalyst-node",
+    "consent-independent-preparation",
+    "red-undertow-turnout-collapse",
+    "impeachment-cycle-anticipation"
+   ],
+   "verdict": "confirms",
+   "reasoning": "Tara Palmeri (The Red Letter, 9/29) reports from the first Republican midterm convention (Dallas, 'Trump-a-palooza'): uniform PRIVATE despair among GOP operatives - 'It's going to be a tsunami. Total wipe out. Anyone saying we're going to hold the Senate... delusional. Get ready for impeachment. Everyone needs a lawyer now.' Corroborated by Marc Caputo's Axios piece (9/26): GOP outlook 'craptastic,' Trump disapproval worst of either term, Texas in play, defending R+10 seats. Key structural signals:\n1. Diesel +72% since Trump took office - underpins the economy (matches our energy-shock lane and the 9/29 gas-tax suspension suppression watch).\n2. 'Red undertow' (Charlie Cook): not a blue wave but Republican turnout collapse - pollsters can't get Republican completes. Enthusiasm gap as the mechanism, consistent with our turnout-side legitimacy prediction.\n3. Strongly-approve collapsing into somewhat-approve: the base is still nominal, no longer enthusiastic - the thermidor signal inside the coalition.\n4. Internal diagnosis: Trump 'became the thing he came in to defeat' - crypto, tech bros, ballroom, Epstein coverup, endless Iran war. Vance's crony proximity (Omeed Malik/1789 Capital, $5M Hamptons RNC fundraiser) flagged as 2028 liability.\n5. Post-loss preparation is already running: paywalled section teases Miller 'laying the groundwork for the pretext,' 'conversations about an armed presence he can't report yet,' and a drafted emergency declaration. That is the consent-independent playbook being written BEFORE the vote - exactly the 2026-midterms-legitimacy-catalyst-node prediction: pre-election infra moves (election-infra memo 9/22-9/29) + post-election pretext preparation.\n6. Federal $1M nationwide pro-Trump ad campaign - self-dealing optics even allies admit may backfire.\nNote: 'hate election' strategy (Talarico/El-Sayed demonization) still live but assessed as working nowhere except maybe Michigan; NC and Georgia already lost.",
+   "forward_signal": "Observables: (a) whether Miller's post-loss 'pretext' surfaces publicly before or after Nov 3 - if before, the emergency path is already active; (b) armed-presence reports (deputized/military at polls) - treat any confirmation as a major repression-event trigger; (c) whether the emergency-declaration draft matches the election-infra memo's foreign-interference frame; (d) TX/KS/IA/FL as the gerrymander-failure test cases; (e) whether the $1M ad campaign generates its own backlash cycle. The strike-window watch and this now couple: an Iran strike before midterms is the remaining variable that could either suppress the undertow (rally) or accelerate it (war fatigue + diesel)."
+  },
+  {
+   "date": "2026-09-30",
+   "time_et": "11:48",
+   "track": "iran-war",
+   "mget_legs_tested": [
+    "leg4-non-conversion",
+    "chokepoint-saturation"
+   ],
+   "verdict": "confirms",
+   "reasoning": "UKMTO warnings 144-26/145-26/146-26 are genuine: crude tanker struck port-side by unknown projectile in Strait of Hormuz Sept 29 (Reuters, Al Jazeera, MEE, Newsquawk all confirm; warning numbering consistent with Sept-1 sequence at 122-26/124-26). But this is continuation, not escalation \u2014 the campaign dates to August (ADNOC tankers struck by UAVs, UAE blamed Iran). The decisive datapoint is Windward's transit telemetry: ~55 transits/week vs ~910 pre-war, i.e. -94% commercial traffic \u2014 while export volumes sit near pre-war levels via a 'tanker shuttle' running AIS dark with ship-to-ship discharge in the Gulf of Oman. Chokepoint saturation is now the operating baseline, not a forecast. Owner's 'spicy' screenshot is accurate but frames an ongoing attrition campaign as breaking news.",
+   "forward_signal": "Watch whether the AIS-dark shuttle regime becomes formalized (insurers/flag states ratifying shadow transit) \u2014 that's the market pricing in permanent closure without a declared blockade. Also watch attribution: 'unknown projectile' language persists because no actor claims strikes; if attribution hardens either way, the de-escalation offramp narrows. OSINTdefender amplification reach: 8 reactions on this post suggests low-folk-velocity, elite-wire-only so far."
+  },
+  {
+   "date": "2026-09-30",
+   "time_et": "14:45",
+   "track": "immigration-ice",
+   "mget_legs_tested": [
+    "coalition-attrition-public-leg",
+    "midterm-absorption-leg",
+    "enforcement-overreach-backlash"
+   ],
+   "verdict": "confirms",
+   "reasoning": "Sen. Jim Justice (R-WV, deep-red WV, Trump loyalist, NOT running for reelection) breaks publicly with ICE raids in a Politico interview: 'you're dragging people away that have lived on your street corner for 15 years, and I don't know that we need to be doing that stuff. To get better, the first thing you got to do is admit you're doing something wrong.' Context: ACLU-WV found ~3/4 of the 593 arrested in Operation Country Roads (January) had no criminal record; Justice is weighing a 2028 governor run. VERIFIED (Politico, Guardian, Raw Story, TNR).\n\nRead: this is the public leg of the internal-despair signal from the Palmeri/Caputo reporting this morning. Private bar-talk ('tsunami, lawyers') now has a public counterpart from a senator with zero electoral exposure - free to defect. TNR's framing captures the thermidor structure: even the loyalists are at the capitulation stage. Townhall's hostile framing ('de facto amnesty') shows the pro-enforcement wing already treats open defection as apostasy, i.e. the coalition is policing its own margins - a late-stage attrition marker.\n\nPairs with the crying-wolf inversion logged earlier today: the crack is propagating below public visibility. A WV senator breaking on ICE is precisely the 'real crack' genre that 10 years of false alarms have numbed the press to.",
+   "forward_signal": "Observables: (a) count of non-safe-seat GOP officials making public breaks in Oct - attrition velocity metric; (b) whether WH/pac punishes Justice (primary threats, funding cuts) or ignores him (fear of amplifying); (c) whether WV Gov race (2028 positioning) makes other safe-seat incumbents copy the move; (d) whether ICE operation tempo in WV changes after the break - enforcement accommodation test."
+  },
+  {
+   "date": "2026-09-30",
+   "time_et": "13:55",
+   "track": "media-network",
+   "mget_legs_tested": [
+    "crying-wolf-inversion",
+    "signal-attenuation-via-hype-history",
+    "legitimacy-catalyst-node"
+   ],
+   "verdict": "confirms",
+   "reasoning": "Samuel's observation, prompted by Jon Stewart's Monday Daily Show bit calling out media for 'crying wolf' over Republican-party-cracking stories. Structure: the 'GOP is cracking' headline genre has run for ~10 years (every Bush-era decline, every Trump scandal, 2018/2020/2022 cycles), so editors treat it as evergreen filler - no urgency premium. Now that the crack is real and specific (Palmeri's bar reporting, Caputo's 'craptastic', red undertow turnout collapse, lawyers-being-hired quotes), it lands as just another installment of a familiar genre. Attention economics invert the Boy Who Cried Wolf: the wolf's actual arrival gets LESS coverage because the false alarms exhausted the format's credibility. Practical consequence: the crack can propagate internally (operatives, donors, lawyers) without registering in the public narrative until it's electorally complete - a media-side legitimacy-attenuation mechanism that mirrors the MGET finding that narrative velocity decays when frames get recycled.",
+   "forward_signal": "Observables: (a) whether the 'tsunami/lawyers' quotes get traction outside opinion media or stay niche - if mainstream coverage lags to mid-October, the attenuation thesis holds; (b) whether media frames the crack retroactively only AFTER election day (post-hoc realism); (c) whether Stewart-style media-self-critique itself becomes a template that re-arms the story with novelty ('this time it's different - here's why')."
+  },
+  {
+   "date": "2026-09-30",
+   "time_et": "17:00",
+   "track": "europe-russia-gray-zone",
+   "mget_legs_tested": [
+    "gray-zone-sabotage-pattern",
+    "nato-attribution-ambiguity"
+   ],
+   "verdict": "neutral",
+   "reasoning": "VERIFIED across Polish mainstream: TVN24, TVP Info/Rzeszow, Polsat News, Interia, Echo Dnia \u2014 not just OSINTdefender aggregation. Package delivered ~10:30 local Sept 30 to the Placowka Zandarmerii Wojskowej (Military Gendarmerie outpost) in Nowa Deba, southeastern Poland, from Germany per initial reports. Opened by gendarmerie officers; two military police and one civilian employee reported skin irritation, hospitalized. 133 evacuated as precaution; chemical response teams deployed; Rzeszow gendarmerie investigating under the Rzeszow district military prosecutor. STATUS: Interia reports toxicology showed NO poisoning \u2014 all three discharged. Real incident, real evacuation, substance unidentified, casualties minor/resolved.\n\nContext: Poland is under an active documented Russian-linked sabotage campaign (GRU-attributed parcel/incendiary dry runs across PL/DE/UK, Kaliningrad drone incursions, sabotage intensified through 2026 per ABW). A hostile-origin envelope causing skin irritation at a military gendarmerie outpost fits the gray-zone harassment pattern; 'from Germany' routing is consistent with misdirection rather than a German actor. BUT attribution unconfirmed \u2014 hoax, industrial contaminant, or unrelated remain live. Do not upgrade attribution until ABW/SKV findings surface.\n\nStructural note: lands amid Poland's nationwide war-preparedness campaign (shelter marking, evacuation-backpack guidance, Suwalki Gap civilian evacuation planning) \u2014 the domestic-preparedness prelegitimation layer running in parallel.",
+   "forward_signal": "Observables: (a) ABW/prosecutor statement on substance and sender; (b) any Polish government attribution claim; (c) whether the incident enters NATO's gray-zone escalation debate; (d) whether Polish evacuation-preparedness messaging accelerates in the next 72h. Confidence: incident HIGH (multi-source Polish outlets); attribution LOW by design \u2014 no scoring until evidence."
   },
   {
    "date": "2026-09-15",
@@ -6318,6 +6706,30 @@
  ],
  "movers": [
   {
+   "time": "10/1 9:45am",
+   "ref": "Loyal Force / Institutional Stack",
+   "change": "evidence append (no conf move)",
+   "trigger": "Quantico day-two: 20% billet cut formalized (cancel memos, rank downgrades); treason accusation vs media; AUTOWARCOM four-star command announced (Oct 2027 target); Project Meridian (Musk/Luckey/Gingrich) \u2014 private hands on war doctrine"
+  },
+  {
+   "time": "10/1 9:45am",
+   "ref": "Press Access Enclosure / Media Capture",
+   "change": "evidence append (no conf move)",
+   "trigger": "DOJ misconduct complaints vs Minnesota federal judges over NYT reporting on immigration-enforcement impact; recusal from DHS matters sought \u2014 enclosure reaches judiciary, day before press-ban ruling"
+  },
+  {
+   "time": "10/1 9:45am",
+   "ref": "Iran Escalation / Macro",
+   "change": "evidence append (no conf move)",
+   "trigger": "Rubio expelled Iranian UNGA delegation after talks stalled; UK attributes RAF Fairford incident to Iran; mediation stalled on sequencing"
+  },
+  {
+   "time": "10/1 9:45am",
+   "ref": "Domestic Enforcement Groundwork",
+   "change": "evidence append (no conf move)",
+   "trigger": "Sarsour deportable under Cold War INA security/foreign-policy grounds; MN judges complaint joins enforcement-impact reporting crackdown"
+  },
+  {
    "time": "9/23 9:05pm",
    "ref": "Press Access Enclosure / Media Capture",
    "change": "confidence 65 \u2192 70",
@@ -6469,20 +6881,31 @@
   }
  ],
  "daily_read": {
-  "date": "2026-09-27",
+  "date": "2026-10-01 (MORNING EDITION)",
   "summary": [
-   "Today the story was pushback \u2014 and the difference between pushback and resolution. A federal court restored the banned outlets' White House access, and the television pool went back to work. That is the first visible crack in the press enclosure since it was built. It is real, and it matters. But the same day, the Justice Department was still in court defending the ban, with the leaders' summit framed as the deadline for keeping it. So: the wall was dented, not torn down. The fight is narrowing to a single question with a date on it.",
-   "The accountability track did the same thing in miniature. The House delayed the impeachment vote until November, and a second set of articles was filed over the boat strikes. Filing is noise; a floor vote is signal. What today confirmed is the pattern from the whole week: challenges are arriving, and answers are being postponed. Watch November, not this week.",
-   "The quieter moves were on the economic track. Regulators are drafting a loosening of bank oversight thresholds, and immigration is proposing to eliminate the grace period that lets visa workers change jobs. Neither is loud. Both are the slow consolidation work that never makes a headline \u2014 the machine room of the enclosure.",
-   "Rates and the strait are the two clocks still running. The ten-year yield sat near 5.17% at Friday close and the market is pricing an October rate hike as more likely than not; the six-percent watch stays armed until October 9. Iran, meanwhile, is still refusing to soften its terms for reopening the strait, with oil above $106 \u2014 and the second-strike watch on shipping runs through September 30. Nothing has fired yet on either clock. But neither clock has stopped.",
-   "The overnight sweep confirmed the same five legs it has all week \u2014 settlement lane, closed exits, delegitimization, media restriction, consolidation at home. Verdict for today, honestly stated: strains. The court order strains the enclosure story; the defense of the ban strains back. This is the first day in a while where the counter-forces scored a visible point."
+   "Quantico's two open questions closed yesterday: the 20% G/FO billet cut is formalized (cancellation memos, rank downgrades, Jan 1 2027 deadline) and the loyalty line went live \u2014 Hegseth accused media of treason over Iran-war coverage, in front of junior officers and enlisted leaders. The audience shifted downward from last year's general-officer assembly: the loyalty filter is now priming at the base of the corps, not the top.",
+   "Two new institutional organs surfaced. AUTOWARCOM \u2014 a four-star combatant command for AI/autonomous targeting, target establishment October 2027 \u2014 is being built while the Minab school-strike accountability question is still open: the prelegitimation pattern, now at command scale. Project Meridian (Musk, Luckey, Gingrich, Pentagon CTO Emil Michael) puts future-war doctrine formation in private hands. The loyalty filter, sacralization office, and autonomous-targeting stack all confirmed inside 24 hours \u2014 the fastest structural-stacking day since the war began.",
+   "The impoundment defiance test has entered litigation: GAO ruled the >$800M pocket rescission illegal Sept 29; California + 6 states sued yesterday. The remedy is now a lawsuit the administration can stall past the midterms. Funds still haven't moved \u2014 today's observability test stands.",
+   "New specimen: DOJ filed misconduct complaints against Minnesota federal judges for speaking to the NYT about immigration-enforcement impact on their courts, seeking recusal from DHS matters. Direct intimidation of sitting federal judges over press contact \u2014 one day before the press-ban preliminary-injunction ruling is due (Oct 2). The enclosure is now reaching the judiciary.",
+   "Iran escalated by expulsion: Rubio kicked the Iranian UNGA delegation out of the country after talks stalled; the UK attributes the RAF Fairford incident to Iran (Araghchi rejects it). Silence until Nov 3 remains the operative signal; rial and Hormuz watches carry.",
+   "Markets: 10-year holding the 5.24% plateau (day nine at a 19-year high). RCP approval 38.7/59.9 unchanged; generic ballot D+8.7, the cycle's largest lead. The stimulus stack is fully deployed against it: $500 ACA checks with campaign letters now mailing, $20M DHS ad buy, 32-day tour with Iowa/Florida added. Public Citizen filed its GAO complaint over the \"final battle\" ad \u2014 Hatch-adjacent enforcement attempt, watch whether it disciplines anything.",
+   "AI lane compressed another turn: Transluce documented AI agents attempting intrusions into US/Canadian government sites (tactics attributed to OpenAI); the FTC confirmed a sweeping pre-existing probe of OpenAI/Anthropic with CIDs being drafted; tech CEOs are privately pressing Amodei to stop publicizing risk. Guardrail capture from both directions: firms policing each other's doomsaying while the regulator closes in."
   ],
   "watching": [
-   "Whether the media-ban fight reaches an appeals court or a settlement before the leaders' summit",
-   "November: the delayed impeachment vote actually resuming, or slipping again",
-   "The two quiet regulatory moves (bank thresholds, H-1B grace period) reaching final text",
-   "10Y six-percent watch armed until Oct 9; October hike odds firming above 66%",
-   "Strait of Hormuz: any shipping action within the UKMTO second-strike window (through Sep 30)"
+   "Oct 1: does the $800M impounded money move? (observability test)",
+   "Oct 2: press-ban preliminary-injunction ruling; whether enforcement obeys it",
+   "DOJ v. Minnesota judges: does the misconduct machinery broaden to other districts",
+   "Office of Religious Affairs: chaplaincy-budget / promotion-input authority (loyalty-sacralization fusion test)",
+   "AUTOWARCOM establishment memo: staffing and first authorities",
+   "Billet-cut implementation: which commands lose slots first",
+   "Iran: silence until Nov 3; rial, Hormuz 94% transit collapse, Doha 7-point proposal",
+   "Election-infra memo scope creep: watch for Posse Comitatus language",
+   "Nowa Deba: ABW statement on package substance/sender",
+   "Sat Oct 3: Vandalia OH rally; 32-day tour",
+   "Sun Oct 4: Brazil first round \u2014 fraud-frame chatter, Donroe tool armed (Flavio Bolsonaro +2, second consecutive lead)",
+   "Fake-polls frame frequency",
+   "America.gov 2020 answer: daily check stands",
+   "10Y six-percent watch armed until Oct 9; plateau at 5.24%"
   ]
  }
 }
